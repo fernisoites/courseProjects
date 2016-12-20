@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	    <title>myapp</title>
+		<style>
+         table, th, td {
+              border: 1px solid black;
+                }
+        </style>
+	</head>	
+	
+    <body>
+		<h1></h1>
+        <a href="/myapp/add_QRcode/">Print QRcode</a><br />
+        <h1></h1>
+        
+		<a href="/myapp/add_category/">Add entry</a><br />
+				<h1></h1>
+		
+        <a href="/myapp/about/">About</a>
+
+		<div class="page-header">
+        <h1>Latest added entries:</h1>
+      </div>
+      <div class="row">
+        <div class="col-md-6">
+          <table class="table">
+            <thead>
+              <tr>
+                <th>Department</th>
+                <th>Location</th>
+                <th>Sink</th>
+				<th>Date</th>
+				<th>Drain_swab_chromagar</th>
+				<th>Indirect_pos_neg</th>
+				<th>Organism_id_swab</th>
+				
+				<th>ptrap_water_chromagar</th>
+				<th>indirect_pos_neg_drain</th>
+				<th>organism_id_water</th>
+				<th>Sampler</th>
+				<th>entry_id</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% if entries %}
+			  
+			    {% for drain in entries %}
+				<tr>
+                <td>{{ drain.department }}</td>
+				<td>{{ drain.location }}</td>
+				<td>{{ drain.sink }}</td>
+				<td>{{ drain.date }}</td>
+				<td>{{ drain.drain_swab_chromagar }}</td>
+				<td>{{ drain.indirect_pos_neg }}</td>
+				<td>{{ drain.organism_id_swab }}</td>
+				
+				<td>{{ drain.ptrap_water_chromagar }}</td>
+				<td>{{ drain.indirect_pos_neg_drain }}</td>
+				<td>{{ drain.organism_id_water }}</td>
+				<td>{{ drain.sampler }}</td>
+				<td>{{ drain.entry_id }}</td>
+				</tr>
+				{% endfor %}
+              
+              {% endif %}
+            </tbody>
+          </table>
+        </div>
+     
+		
+    </body>
+</html>

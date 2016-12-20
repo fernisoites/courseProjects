@@ -1,0 +1,7 @@
+recordid
+CAVnumber
+result
+samplecollecteddatetime
+roomname
+sitename
+speciesname

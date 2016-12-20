@@ -1,0 +1,8 @@
+*.o
+sim
+simpleloop
+matmul
+*.dSYM
+.marker
+simpleloop.txt
+make.trace

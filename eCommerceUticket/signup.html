@@ -1,0 +1,487 @@
+<!DOCTYPE HTML>
+<!--
+	Alpha by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Utickets Sign Up</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+					<!--<style>
+                    #example1{
+                        background: url(images/background.jpg);
+                        background-position: left top;
+                        background-repeat: no-repeat;
+                    }
+                    </style>
+                -->
+	</head>
+	<div id="page-wrapper">
+	   
+			<!-- Header -->
+				<header id="header">
+
+					<img src="images/bird_ticket.png", style="width:80px">
+
+					<h1><font size="4"><a href="index.html"><ul><ul><ul><ul><ul>UTickets</font></h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li>
+							<li><a href="about.html">About Us</a></li>
+							<li>
+								<!--<a href="#" class="icon fa-angle-down">Layouts</a>
+								<ul>
+									<li><a href="generic.html">Generic</a></li>
+									<li><a href="contact.html">Contact</a></li>
+									<li><a href="elements.html">Elements</a></li>
+									<li>
+										<a href="#">Submenu</a>
+										<ul>
+											<li><a href="#">Option One</a></li>
+											<li><a href="#">Option Two</a></li>
+											<li><a href="#">Option Three</a></li>
+											<li><a href="#">Option Four</a></li>
+										</ul>
+									</li>
+								</ul>-->
+							</li>
+							<li><a href="signin.html" class="button">Sign In</a></li>
+						</ul>
+
+					</nav>
+
+				</header>
+
+			<!-- Main -->
+				<section id="main" class="container 75%">
+					<header>
+						<h2>Sign Up Now!</h2>
+						<p>Join Us Right Now and Enjoy Our Services!</p>
+					</header>
+					
+					<div class="box">
+						<form method="POST" action="registration.php" name="myform" id="payment-form" >
+						    <font size="5em" color = "black"><center>Personal Information</center></font>
+							<br>
+							<div class="row uniform 50%">
+								<div class="6u 12u(mobilep)">
+									<input type="text" name="name" value="" placeholder="Name" onblur="ValidateName()" />
+								</div>
+								<div class="6u 12u(mobilep)">
+									<input type="email" name="email" value="" value="" placeholder="Email" onblur="ValidateEmail()"/>
+								</div>
+							</div>
+							<div class="row uniform 50%">
+								<div class="6u 12u(mobilep)">
+									<input type="text" name="password" value="" placeholder="Password" onblur="ValidatePassword()" />
+								</div>
+								<div class="6u 12u(mobilep)">
+									<input type="text" name="confirm_password" value="" value="" placeholder="Confirm Password" onblur="ValidateConfirmPass()"/>
+								</div>
+							</div>
+							<br>
+							<div class="row uniform 50%">
+								<div class="12u">
+									<input type="text" name="address" id="address" value="" placeholder="Address" onblur="ValidateAddress()"/>
+								</div>
+							</div>
+
+							<div class="row uniform 33%">
+								<div class="4u 12u(mobilep)">
+									<input type="text" name="city" value="" placeholder="City" onblur="ValidateCity()" />
+								</div>
+								<div class="4u 12u(mobilep)">
+									<input type="text" name="state" value="" placeholder="State" onblur="ValidateState()"/>
+								</div>
+								<div class="4u 12u(mobilep)">
+									<input type="text" name="zip" value="" placeholder="Zip Code" onblur="ValidateZip()"/>
+								</div>
+							</div>
+
+							<br>
+							<br>
+							<font size="5em" color = "black"><center>Banking Information</center></font>
+							<br>
+							<div class="row uniform 50%">
+								<div class="12u">
+									<input type="text" name="cardnumber" id="cardnumber" value="" class="card-number" placeholder="Credit/Debit Card Number" onblur="ValidateCardNumber()"/>
+								</div>
+							</div>
+
+							<div class="row uniform 33%">
+								<div class="4u 12u(mobilep)">
+									<input type="text" name="expiration_month" value="" class="card-expiry-month" placeholder="Expiration Month" onblur="ValidateMonth()"/>
+								</div>
+								<div class="4u 12u(mobilep)">
+									<input type="text" name="expiration_year" value="" class="card-expiry-year" placeholder="Expiration Year" onblur="ValidateYear()"/>
+								</div>
+								<div class="4u 12u(mobilep)">
+									<input type="text" name="cvv" value="" class="card-cvc" placeholder="CVV" onblur="ValidateCVV()"/>
+								</div>
+							</div>
+							<br>
+							<font size="2em" face="verdana">*Your credit/debit card will be charged a yearly membership fee of $10</center></font>
+							<br>
+							<br>
+
+							<div class="row uniform">
+								<div class="12u">
+									<ul class="actions align-center">
+										<li><input type="submit" value="Sign Up" class="submit-button"></li>
+									</ul>
+								</div>
+							</div>
+
+							<!--<div class="row uniform">
+								<div class="12u">
+									<ul class="actions align-center">
+										<li><button type="submit" class="submit-button">Submit Payment</button></li>
+									</ul>
+								</div>
+							</div>-->
+						</form>
+
+						<script>
+
+						function ValidateName(){
+							var uname = document.myform.name;
+							var nameformat=/^[a-zA-z ]{1,50}$/;
+							if (uname.value.length<1 || uname.value.length>50){
+						  	alert("Length of Your Name Should Be Between 1 And 50");
+						  	uname.focus();
+						  	return false;
+						  }
+
+						  if (!uname.value.match(nameformat)){
+						  	alert("Your Name Should Only Contain Characters");
+						  	uname.focus();
+						  	return false;
+						  }
+
+						  if (uname.value.trim().length<1){
+						  	alert("please enter name");
+						  	uname.focus();
+						  	return false;
+						  }
+						}
+
+						function ValidatePassword(){
+							var upassword = document.myform.password;
+							var upasswordformat=/^[a-zA-z ]{1,50}$/;
+							//var passowordformat=/^[a-zA-z1-9@#$%&]{1,50}$/;
+							if (upassword.value.length<8 || uname.value.length>16){
+						  	  alert("Length of Your Password Should Be Between 8 and 16");
+						  	  upassword.focus();
+						  	  return false;
+						    }
+						    //if (!upassword.value.match(passwordformat)){
+						  	//  alert("Passord Should Only Contain a-zA-z0-9@#$%&");
+						  	//  upassword.focus();
+						  	//  return false;
+						    //}
+							if (!upassword.value.match(upasswordformat)){
+						  		alert("Your Password Should Only Contain Characters");
+						  		upassword.focus();
+						  		return false;
+						  	}
+
+						    if (upassword.value.trim().length<1){
+						  	  alert("Please Enter Your Password");
+						  	  upassword.focus();
+						  	  return false;
+						    }
+						}
+
+						function ValidateConfirmPass(){
+							var upassword = document.myform.password;
+							var uconfirmpass = document.myform.confirm_password;
+							if (upassword.value != uconfirmpass.value){
+						  	alert("Passwords Should Match");
+						  	uconfirmpass.focus();
+						  	return false;
+						  }
+
+						  if (uconfirmpasss.value.trim().length<1){
+						  	alert("Please Confirm Your Password");
+						  	uconfirmpass.focus();
+						  	return false;
+						  }
+						}
+
+						function ValidateEmail(){
+							var uemail = document.myform.email;
+							var mailformat=/[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$/;
+                            if (uemail.value.length<1){
+						  	  alert("E-mail Is Required");
+						  	  uemail.focus();
+						  	  return false;
+						    }
+
+						    if (!uemail.value.match(mailformat)){
+						  	  alert("Invalid E-mail Address");
+						  	  uemail.focus();
+						  	  return false;
+						    }
+
+						    if (uemail.value.trim().length<1){
+						  	alert("please enter email");
+						  	uemail.focus();
+						  	return false;
+						  }
+						}
+
+						function ValidateAddress(){
+					      var uaddress = document.myform.address;
+						  var addressformat=/^[a-zA-z0-9-#, ]{1,50}$/;
+						  if (uaddress.value.length<1){
+						  	alert("Address Is Required");
+						  	uaddress.focus();
+						  	return false;
+						  }
+
+						  if (!address.value.match(addressformat)){
+						  	alert("Invalid Address");
+						  	uaddress.focus();
+						  	return false;
+						  }
+
+						  if (uaddress.value.trim().length<1){
+						  	alert("please enter address");
+						  	uaddress.focus();
+						  	return false;
+						  }
+						}
+
+						function ValidateCity(){
+							var ucity = document.myform.city;
+							var cityformat=/^[a-zA-z ]{1,50}$/;
+						  if (ucity.value.length<1){
+						  	alert("City Is Required");
+						  	ucity.focus();
+						  	return false;
+						  }
+
+						  if (!ucity.value.match(cityformat)){
+						  	alert("Invalid City Name");
+						  	ucity.focus();
+						  	return false;
+						  }
+
+						  if (ucity.value.trim().length<1){
+						  	alert("please enter city");
+						  	ucity.focus();
+						  	return false;
+						  }
+						}
+
+						function ValidateState(){
+							var ustate = document.myform.state;
+							var stateformat=/^[a-zA-z ]{1,50}$/;
+						  if (ustate.value.length<1){
+						  	alert("State Is Required");
+						  	ustate.focus();
+						  	return false;
+						  }
+
+						  if (!ustate.value.match(stateformat)){
+						  	alert("Invalid State Name");
+						  	ustate.focus();
+						  	return false;
+						  }
+
+						  if (ustate.value.trim().length<1){
+						  	alert("please enter state");
+						  	ustate.focus();
+						  	return false;
+						  }
+						}
+
+						function ValidateZip(){
+							var uzip = document.myform.zip;
+							var zipformat=/^[0-9]{1,50}$/;
+						  if (uzip.value.length<1){
+						  	alert("Zip Code Is Required");
+						  	uzip.focus();
+						  	return false;
+						  }
+
+						  if (!uzip.value.match(zipformat)){
+						  	alert("Invalid Zip Code");
+						  	uzip.focus();
+						  	return false;
+						  }
+
+						  if (uzip.value.trim().length<1){
+						  	alert("please enter zip");
+						  	uzip.focus();
+						  	return false;
+						  }
+
+						}
+
+						function ValidateCardNumber(){
+							var ucardnumber = document.myform.cardnumber;
+							var cardnumberformat=/^[0-9]{14,16}$/;
+						  if (ucardnumber.value.length<1){
+						  	alert("Card Number Is Required");
+						  	ucardnumber.focus();
+						  	return false;
+						  }
+
+						  if (!ucardnumber.value.match(cardnumberformat)){
+						  	alert("Invalid Card Number");
+						  	ucardnumber.focus();
+						  	return false;
+						  }		
+
+						  if (ucardnumber.value.trim().length<1){
+						  	alert("please enter cardnumber");
+						  	ucardnumber.focus();
+						  	return false;
+						  }						
+						}
+
+						function ValidateMonth(){
+							var uexpriymonth = document.myform.expiration_month;
+							var expirymonthformat=/^[0-9]{1,2}$/;
+						  if (uexpriymonth.value.length<1){
+						  	alert("Expiration Month Is Required");
+						  	uexpriymonth.focus();
+						  	return false;
+						  }
+
+						  if (!uexpriymonth.value.match(expirymonthformat) || parseInt(uexpriymonth.value) == 0 || parseInt(uexpriymonth.value) > 12){
+						  	alert("Invalid Expiration Month");
+						  	uexpriymonth.focus();
+						  	return false;
+						  }
+
+						  if (uexpriymonth.value.trim().length<1){
+						  	alert("please enter expiremonth");
+						  	uexpriymonth.focus();
+						  	return false;
+						  }								
+						}
+
+						function ValidateYear(){
+							var uexpriyyear = document.myform.expiration_year;
+							var expiryyearformat=/^[0-9]{4}$/;
+						  if (uexpriyyear.value.length<1){
+						  	alert("Expiration Year Is Required");
+						  	uexpriyyear.focus();
+						  	return false;
+						  }
+
+						  if (!uexpriyyear.value.match(expiryyearformat) || parseInt(uexpriyyear.value) < 2016 || parseInt(uexpriyyear.value) > 2040){
+						  	alert("Invalid Expiration Year");
+						  	uexpriyyear.focus();
+						  	return false;
+						  }	
+
+						  if (uexpriyyear.value.trim().length<1){
+						  	alert("please enter expireyear");
+						  	uexpriyyear.focus();
+						  	return false;
+						  }
+
+						}
+
+						function ValidateCVV(){
+							var ucvv = document.myform.cvv;
+							var cvvformat=/^[0-9]{3}$/;
+						  if (ucvv.value.length<1){
+						  	alert("CVV Is Required");
+						  	ucvv.focus();
+						  	return false;
+						  }
+
+						  if (!ucvv.value.match(cvvformat)){
+						  	alert("Invalid CVV");
+						  	ucvv.focus();
+						  	return false;
+						  }	
+
+						  if (ucvv.value.trim().length<1){
+						  	alert("please enter cvv");
+						  	ucvv.focus();
+						  	return false;
+						  }
+
+
+						}
+						</script>
+						
+						<script type="text/javascript" src="https://js.stripe.com/v2/"></script>
+
+						  <!-- jQuery is used only for this example; it isn't required to use Stripe -->
+						  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+
+						  <script type="text/javascript">
+						    // This identifies your website in the createToken call below
+						    Stripe.setPublishableKey('pk_test_tAunCPIQIOAehJ2kEzxhXGpe');
+				            function stripeResponseHandler(status, response) {
+				                if (response.error) {
+				                    // re-enable the submit button
+				                    $('.submit-button').removeAttr("disabled");
+				                    // show the errors on the form
+				                    $(".payment-errors").html(response.error.message);
+				                } else {
+				                    var form$ = $("#payment-form");
+				                    // token contains id, last4, and card type
+				                    var token = response['id'];
+				                    // insert the token into the form so it gets submitted to the server
+				                    form$.append("<input type='hidden' name='stripeToken' value='" + token + "' />");
+				                    // and submit
+				                    form$.get(0).submit();
+				                }
+				            }
+				            $(document).ready(function() {
+				                $("#payment-form").submit(function(event) {
+				                    // disable the submit button to prevent repeated clicks
+				                    $('.submit-button').attr("disabled", "disabled");
+				                    // createToken returns immediately - the supplied callback submits the form if there are no errors
+				                    Stripe.createToken({
+				                        number: $('.card-number').val(),
+				                        cvc: $('.card-cvc').val(),
+				                        exp_month: $('.card-expiry-month').val(),
+				                        exp_year: $('.card-expiry-year').val()
+				                    }, stripeResponseHandler);
+				                    return false; // submit from callback
+				                });
+				            });
+						  </script>
+					</div>
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+						<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+						<li><a href="#" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
+					</ul>
+
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollgress.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

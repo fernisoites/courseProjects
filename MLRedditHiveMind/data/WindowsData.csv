@@ -1,0 +1,1193 @@
+,body,score,overallPol,stdPol,overallSub,stdSub,polRange,subRange,wordCount,bigWords,sentLen,targetPol,targetSub
+0,"Exactly.   IMO, this is throwing in the towel for native Windows development.   It is basically jumping the shark in the software world.
+
+Supporting your competitors native development is usually not a good thing for the future of YOUR platform.    This case supporting both competitors is twice as bad.",1,-0.05,0.168983891408,0.356944444444,0.202878589857,0.475,0.458333333333,48,0.137931034483,9.6,0.0,0.0
+1,"This is the best tl;dr I could make, [original](http://www.remotelymobile.com/2015/04/30/windows-will-win-your-heart-by-not-caring/) reduced by 88%. (I'm a bot)
+*****
+&gt; The announcements ranged from the ability to run Android and iOS apps on Windows 10, to a free development environment for Windows, Mac, and Linux, to Continuum - a feature that will leverage Universal Apps to allow your phone to adapt to a desktop Windows 10 experience when connected to a monitor.
+
+&gt; First, Microsoft is opening its Windows platform up beyond traditional Windows apps to iOS and Android apps.
+
+&gt; With the release of a free development environment that spans Windows, Linux, and Mac, Microsoft is recognizing that developers have a wide preference of systems they work on and Microsoft is prepared to support those systems.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/34j7nn/microsoft_has_clearly_shown_it_doesnt_care/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ ""Version 1.5, ~14033 tl;drs so far."") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr ""PMs and comment replies are read by the bot admin, constructive feedback is welcome."") | *Top* *five* *keywords*: **Microsoft**^#1 **app**^#2 **Windows**^#3 **just**^#4 **experience**^#5",1,0.335,0.364536561626,0.578333333333,0.255980064948,0.9,0.7,175,0.13,25.0,0.1625,0.470833333333
+2,"I haven't been able to do anything useful in the free version (/mode?) on Android.  It forces its own playlist on me, which consists of one or two songs it let me pick right after i installed.  It just plays and replays those same picks and won't let me do anything to change that.  Big disappointment--it was great on my old Windows PC.  I'm afraid of what I'm going to get when I reinstall on my *new* PC....",1,0.229279811098,0.268897794826,0.499114521842,0.301975194283,0.674675324675,0.767857142857,83,0.0285714285714,13.8333333333,0.3,0.35
+3,"Only Windows 7 and up are qualified for the free Windows 10 upgrades. Microsoft doesn't support upgrading from Vista, at best they would sell you a Windows 10 Upgrade DVD for $40 or something and you have to start over from scratch after backing up all of your data and software programs and then reinstalling your software and putting your data back in. 
+
+When Windows 8 came out, Microsoft sold me a Windows 8 Pro DVD for $40 that I upgraded from Windows 7 Pro.",1,0.35,0.251661147842,0.525,0.48218253805,0.5,0.9,86,0.0208333333333,28.6666666667,0.2,0.9
+4,"This is the best tl;dr I could make, [original](http://www.pcworld.com/article/2917474/windows-forever-windows-10-builds-will-continue-even-after-microsoft-ships-it.html) reduced by 84%. (I'm a bot)
+*****
+&gt; Internally, some Microsoft employees refer to Windows 10 as &amp;quot;The last Windows.&amp;quot; Based on the company&amp;#039;s strategy of perpetual Windows builds, the concept of a single, fixed &amp;quot;Release date&amp;quot; seems less and less important.
+
+&gt; According to Belfiore, Microsoft&amp;#039;s goal with Windows is to keep evolving: &amp;quot;Adjust dynamically to the real world and to real people, and sometimes that&amp;#039;s subjective feedback, and sometimes it&amp;#039;s quantitative analysis, on how we build Windows, how we deploy it.""
+
+&gt; At Build, executives said on stage that Windows will be a free upgrade &amp;quot;For the first year&amp;quot; for Windows 7 and Windows 8 users, which implies you&amp;#039;ll be paying for these features at some point.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/34ld5x/windows_forever_windows_10_builds_will_continue/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ ""Version 1.5, ~14281 tl;drs so far."") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr ""PMs and comment replies are read by the bot admin, constructive feedback is welcome."") | *Top* *five* *keywords*: **Windows**^#1 **Microsoft**^#2 **Build**^#3 **Belfiore**^#4 **features**^#5
+
+Post found in [/r/windows](/r/windows/comments/34hjoq/windows_forever_windows_10_builds_will_continue/), [/r/technology](/r/technology/comments/34jgav/windows_forever_windows_10_builds_will_continue/), [/r/realtech](/r/realtech/comments/34jhqu/windows_forever_windows_10_builds_will_continue/) and [/r/Windows10M](/r/Windows10M/comments/34gpic/windows_forever_windows_10_builds_will_continue/).",0,0.236349206349,0.367917848349,0.403174603175,0.303970733947,0.986394557823,0.769387755102,221,0.114754098361,31.5714285714,0.0136054421769,0.230612244898
+5,"The application is called CCF (Control Centre of the Future) and provides a visualisation of real-time train movements.  This data is publicly available on the internet, so not a great risk from an information sensitivity perspective.  I believe it is an XWindows app, so that it can be opened on a variety of clients in the event of workstation failure.
+
+The PC is most likely a display-only workstation with a local account.  The problem is that the workstation would need to be connected to the corporate WAN in order to display the information.  This in itself presents a security issue: the corporate network can be accessed from a PC via a local account for which the password has been displayed on national TV.  No, the Windows domain could not be accessed, but the network layer and other systems and devices on the network could.
+
+A hacker who has penetrated the network could then exploit this information by attempting to log into each and every IP address on the WAN using the name and password which was revealed on TV.    (Heck, a malicious cleaner could also do the same.  $20 paid to cleaner for every username/password sticky that has been successfully photographed during their nighttime cleaning shift.)  Eventually said hacker could get lucky.  The PC is clearly still running WinXP as can be determined by the colour scheme and the max/min/close icons on the upper right-hand corner of the application window.  WinXP exploits could be leveraged, or a key logger could be installed in effort to capture a valid Windows domain username/password at some future point.
+
+I could go on.  Lesson is don't stick login details onto your bloody computer.  This shouldn't be downplayed.  This computer is most likely attached to the corporate WAN and should be secure.",23,0.0285256410256,0.309109978419,0.396794871795,0.319707727535,1.55,0.95,299,0.101796407186,17.5882352941,0.0,0.5625
+6,"I had someone argue repeatedly that if you ever hit 300 GB you are obviously doing something illegal.  Yeah, they haven't seen my Steam and Origin libraries.  When my HD crashed I had to redownload all of them to play and that was over half right there just in games I play at least every week.  Add some NetFlix and regular browsing (and maybe a few big Windows updates) and I am way over 300 GB just on my PC.  Hell, with 5 people in my house we rarely are under 300-400 GB.  ",38,-0.0645502645503,0.199622975445,0.364367114367,0.357701126968,0.55,0.9,94,0.0,18.8,-0.0666666666667,0.0923076923077
+7,"Free Windows, or advertising. Pick one.",-11,0.4,0.282842712475,0.8,0.565685424949,0.4,0.8,6,0.25,3.0,0.4,0.8
+8,"Anybody who thinks Linux is safe from viruses for any reason other than obscurity are kidding themselves. A bad Linux user can get a virus the same as a bad Windows user, the only difference is the amount out there for each system. ",8,-0.170833333333,0.380069894888,0.555555555556,0.125216825835,0.5375,0.177083333333,43,0.0,21.5,-0.35,0.614583333333
+9,Unfortunately I don't leave my home computer on 24/7 ready to receive data. I don't know how many other people do. I either sleep or turn off my computer (only when Windows updates come in) for when I'm out. Would a sleeping computer still be able to receive the stream?,15,0.0958333333333,0.280136685388,0.666666666667,0.235932326102,0.65,0.5625,53,0.0344827586207,13.25,0.0,1.0
+10,"Its true, now I never have to write another native Windows application ever again.  ",5,0.35,0.247487373415,0.65,0.459619407771,0.35,0.65,14,0.1,14.0,0.35,0.65
+11,"I've spent a week looking a couple years ago because I hate Windows Media Centers interface, there was none that worked well.",5,-0.45,0.318198051534,0.5,0.353553390593,0.45,0.5,23,0.0,23.0,-0.45,0.5
+12,"It's a bit different this time. MS tried to compete with Android (and iOS) phones, but essentially failed. They're now trying to lure in developers - making it easy to port apps from Android to Windows means a lot of Android apps will be converted to run on WinPhone too. I'm not thrilled about it, but I expect their market share to grow significantly thanks to that.
+
+They kinda did the same with Java back in the days. Ultimately, they branded it as ""the best way to code for Windows"" by adding proprietary extensions that would not work on other systems, effectively extinguishing the initial goal of having JVMs.",2,0.109027777778,0.323110604844,0.436111111111,0.262239509199,0.933333333333,0.770833333333,111,0.078125,18.5,0.433333333333,0.833333333333
+13,"-Doesn't know how to disable the windows 8 GUI
+-Doesn't know the major back end differences between 7 and 8 
+-Author of ""iPad for Dummies"" 
+
+Typical pro Apple, Windows doomsday prophetic tech ""journalist""
+
+
+",2,-0.0347222222222,0.0245523187912,0.333333333333,0.235702260396,0.0347222222222,0.333333333333,35,0.05,35.0,-0.0347222222222,0.333333333333
+14,Linux is fine. Linux is great. Windows is going to be the dominant PC OS for a long time. It will probably outlive all of us.,1,0.388888888889,0.398260104845,0.55,0.311916121204,0.85,0.75,26,0.0,6.5,-0.05,0.4
+15,"Wrong. It's only free for consumers to upgrade. 
+
+OEM-installed Windows versions - you're paying money out of your pocket to pay for the Windows license, too.
+
+All businesses and institutions will also pay for Windows licenses.",-1,-0.0333333333333,0.298607881119,0.9,0.519615242271,0.7,0.9,37,0.1,9.25,0.0,0.0
+16,"Most viruses that guy filtered by Appriver involve .exe files or Windows scripted commands.
+
+I'm not saying they don't happen. I'm not suggesting that at all.
+
+I'm saying Windows is a much more common target.",0,0.233333333333,0.238047614285,0.5,0.288675134595,0.5,0.5,39,0.0,9.75,0.3,0.5
+17,"If you want an operating system with built in spyware you can't go wrong with the free Windows 10 ""upgrade"".",-7,-0.05,0,0.85,0,0,0,21,0.0,21.0,-0.05,0.85
+18,"Depends on what it is for, and how comfortable you are with Linux. Because Linux is free but if you are not familiar with it can be challenging to set up. Other wise Windows server 2008r2 or 2012 is easy to set up and manage, but there is the cost. And normally you would want web server, and file share on 2 different server's. ",1,0.252314814815,0.141545768129,0.717592592593,0.0771302409829,0.325,0.175,65,0.0689655172414,16.25,0.336111111111,0.702777777778
+19,"This comment makes no sense.
+
+You do realize when you install Windows 8, 8.1 or 10 (Currently using) you don't have to turn on OneDrive so it doesn't work, it's optional but recommended for backing up your settings.
+
+""local searches"" I'm not sure why you think they would be sent to Microsoft. The only data sent to Microsoft during Windows 10, except during the Technical Preview were everything is recorded, is the data for Cortana to help improve the search efficiency and accuracy, error logs from either Blue Screens or Program shutdowns, where it records the program name or service name that failed, and why it failed.
+
+Maybe refresh on the terms and conditions / privacy policy when you re install Windows. It takes a while, but it's worth it so you know what it does because you are basing this off...??",2,-0.105555555556,0.155743225795,0.354320987654,0.205770372523,0.5,0.444444444444,146,0.0120481927711,20.8571428571,0.0,0.0
+20,"&gt; will it surrender the extra ram when a different process needs it?
+
+Since at least Windows 7, Windows has guessed what you're likely to load at certain times and loaded it into RAM for quick access. It's a separate state, so the RAM is immediately available if needed (unlike in-use RAM), but the cached data is also available if needed.",1,0.130952380952,0.215306212006,0.496428571429,0.142424941445,0.4,0.267857142857,63,0.030303030303,21.0,0.0619047619048,0.617857142857
+21,"They really aren't that similar. Everything about material design is supposed to make you feel like you are directly manipulating physical objects and make it easy to immediately see the effects of your actions. This is like the philosophy of classic windows taken to the extreme. ""Objects"" in MD reflect light and cast shadows. They can be stacked and affixed to one another, but they can't pass through each other.
+
+Metro moves away from the classic window manipulation and flattens everything out. It's apparently inspired by transportation signage and places high importance on typography. It prefers to have all of it's information on a single pane. Notably, they also carried a few small visual design changes over to classic Windows, like the removal of drop shadows.
+
+One of the easiest places to see the difference in design philosophy should be the app switcher. Windows 8 Metro has a pane slide out that displays the apps in a flat column, while Material Design has you flip through the apps like a deck of cards.
+
+Also, I can't speak for iOS, but those design elements you listed already existed within Holo (lack of gradiants to a lesser degree) which was released before Windows 8. Of course, I don't think Windows copied Android either, these were just designed trends that both happened to hop on at the same time.",1,0.0736621315193,0.134101404783,0.352641723356,0.205091362105,0.525,0.7,232,0.0359712230216,17.8461538462,0.0216666666667,0.179166666667
+22,"I agree that their phones and tablets are way overpriced, but their computers are worth every penny if you want a computer that requires little maintenance and lasts a long time. My Macbook Pro is 8 years old and still kicking. My wife's Macbook is 7 years old and still runs fine. Both made it through college without crapping out and have kept running strong since then.
+
+Most people I know will spend a good chunk of cash on a Windows based PC and have to replace it within 4 years.",0,0.256944444444,0.237653459194,0.414814814815,0.209165006634,0.579166666667,0.533333333333,92,0.0178571428571,18.4,0.6,0.55
+23,"As someone who is pretty tech-capable, I enjoyed my 2009 MacBook Pro simply because it was less buggy. I never had any actual issues with it, unlike every single Windows OS computer I have ever used, and the battery life was far superior (at the time at least) to the Windows OS laptops on the market. Now that my MacBook is finally slowly dying, I think I'm going to switch to a Chromebook. But the reasons Macs are ""easier"" is just that they are less prone to issues that Windows OS computers have. And even though those issues are sometimes easily fixable if you know what you're doing, it's still easier to not have them in the first place.",60,0.0945054945055,0.255371156237,0.49010989011,0.209051035876,0.641666666667,0.516666666667,122,0.0147058823529,24.4,0.0857142857143,0.522857142857
+24,"As a developer and a platform-agnostic, I think I can offer some insight here.
+
+Primarily, the things that people who would ever say ""Macs are easier"" in the first place, the things they are looking for aren't remotely similar to the things that you and I look for in a computer. They want simplicity and lack of options. The 'simplicity' aspect has a lot to do with the fact that Mac doesn't really prompt you with dialog boxes and complicated installer menus etc. Lots of the system settings are locked away and impossible to accidentally switch on.
+
+To defend it a bit as an actual developer: I do like working on Mac. Spaces is pretty cool (although granted many Windows applications replicate this). Drivers are almost never an issue on mac. Compatibility is basically never an issue unless there flat out is not a mac version of the program in question. And the battery life on my macbook pro. Holy god. I've had it closed (not off) for a week before and came back to find it at 99% battery. I've never seen a windows laptop come even close to this. It also stretches the battery longer as far as uptime is concerned while also being a reasonably thin laptop.
+
+And the industrial design. I've heard people argue back and forth about this one but I still have never seen a laptop with physical design as nice as the macbook. From the magclip power cord, to the keyboard which is probably the nicest, smoothest, non-stickiest keyboard I've used apart from mechanicals, to the hinge that has just the right amount of friction not to flap open on its own, but not so much that you have to hold the base down when you open it. The trackpad is amazing as well and that might not sound like a big deal but when you're moving around all day and need to get bits of work done it is a life saver. It's good enough that I hardly bother with a mouse anymore when I'm doing work. The thing is expertly designed.
+
+On the flipside you have things that just irritate the fucking hell out of me about apple. Lack of cut and paste in finder (what the actual fuck), Apple's marriage to hieroglyphics instead of helpful words for menus. I mean, take a look around mac OS. There is just a stupid amount of iconography that makes no sense. The finder menus, itunes, really every aspect of the platform. And don't even get me started on the icons in xcode. Also the fact that it takes 12 more steps to do anything technical than it does on windows. Take a look at how to show hidden files on mac. Here's a hint: it requires the command line.
+
+Yeah I'm agnostic. I hate both equally. But I definitely see the merits of Apple's products. It *definitely* is not simply a case of people paying more because they have been duped into thinking it's better.
+
+FWIW I prefer windows if everything else is equal, but Mac definitely has its benefits and it does some things much better than PCs do.",1,0.0207685455134,0.261192025201,0.500927275672,0.323630538992,1.16666666667,1.0,542,0.0335570469799,15.9411764706,0.366666666667,0.716666666667
+25,"I hate when people assume that all Mac users don't know how computers work and buy them because they're ""trendy"". Is it a decent percentage of users? Yes. Overpriced? Yea probably. But I bought my Mac for content creation: Logic Pro, iMovie, etc. While there are better options than iTunes, it gets the job done and I think the presentation is great. Playlists are easy to make and my 400+ album collection is easy to navigate. Podcasts are pretty simple too. It certainly kills the terrible Windows Media Player that was bundled with my Windows 7 a little while back.",10,0.108470695971,0.261711764978,0.677838827839,0.378021629981,0.893303571429,0.9,102,0.0175438596491,10.2,-0.243303571429,0.517857142857
+26,Windows fucking 10? What?,1,-0.6,0.424264068712,0.8,0.565685424949,0.6,0.8,4,0.0,2.0,-0.6,0.8
+27,Microsoft Windows 10 'Cityman' and 'Talkman' Smartphones leaks,2,0.0,0,0.0,0,0,0,8,0.166666666667,8.0,0.0,0.0
+28,"iTunes was an awesome product _when it launched in 2001_. Now, it's a bloated mess, with surprisingly poor performance on even a relatively modern Windows machine.
+
+Google Music has relegated it to the trashbin of history for me.",3,0.15625,0.61661035779,0.51875,0.506645650149,1.125,1.0,39,0.0909090909091,13.0,-0.125,0.358333333333
+29,"&gt; It certainly kills the terrible Windows Media Player that was bundled with my Windows 7 a little while back.
+
+Do people even still use that? I'm pretty sure that I literally haven't even read those words in a few years.",1,-0.0604591836735,0.214019776145,0.580045351474,0.348509112673,0.426636904762,0.662962962963,43,0.0,14.3333333333,-0.243303571429,0.517857142857
+30,"Windows has sucked since 90s, probably even longer. Now it has sucked so long that its finally becoming cool.",1,0.25,0.176776695297,0.633333333333,0.447834294751,0.25,0.633333333333,19,0.0,9.5,0.0,0.0
+31,"At work we're using Windows 7 and I agree it's better so far than XP or 2000 ever was, but it still freezes up constantly for minutes at a time. But considering of the things available in 2009, the Mac OS was superior to the Windows XP one (which was most common), my point stands. Comparing a 2009 MacBook to a current top of the line Windows 8 machine is silly, just like you said.",1,0.19,0.163935963108,0.590833333333,0.0180733530518,0.325,0.0361111111111,77,0.0285714285714,25.6666666667,0.0,0.591666666667
+32,"Yep. They make the whole experience pleasurable. You have a few core brands: MacBook Air, MacBook Pro, etc. The names more or less explain what tier of performance they are. Compare that to the various Windows PC manufacturers who use byzantine coding systems to designate their products.
+
+They then bog the systems down with all sorts of useless shit instead of giving us an experience that just works. Fuck off, Samsung Software Update, leave me be.
+
+My current laptop (Samsung Series 7 Chrono) has pretty decent build quality, but it still falls way short of the MacBook Pro I used to have. That thing simply felt like a premium product, even though it was likely made in the same forsaken factory my laptop was made in.",3,-0.0315972222222,0.206422708884,0.45652281746,0.210821803908,0.6,0.6,126,0.0379746835443,14.0,0.0,0.5
+33,"Apple software is always shit on windows. Quicktime takes an entire minute to load on my computer when vlc is faster than I can blink. Some say it's to promote Apple products by implying Windows is slow, but if I didn't know any better I'd just assume all Mac programs were that shitty.
+
+Microsoft products run slightly slower on Macs but the difference is not nearly as severe.",1,-0.0361111111111,0.130237496734,0.481944444444,0.222712133582,0.3,0.516666666667,71,0.0,17.75,0.1,0.45
+34,"Programmer here, Mac and OS X are advantageous to windows and Linux. You can install any platform or use virtualisation, trackpads are actually enjoyable, if that's your thing and not having to spend hours removing trials and shit software (or alternatively buying a new windows license) is nice. Unlike Linux there's a lot of commercial software, Adobe, Microsoft, ect and battery life is great, Linux absolutely murders batteries. Windows doesn't offer much for developers, until like a week ago anyway, but it's clunky as hell. As someone who used to build my own desktops and went through about four windows laptops in a two year period, I can safely say my MacBook, which was $200 cheaper than the Toshiba laptop I last owned, is far superior.",1,0.318181818182,0.148090757173,0.628554778555,0.317011165374,0.38,0.713636363636,130,0.041095890411,26.0,0.2,0.2
+35,"To be honest, it is so much better on Macs. iTunes works better on my 4-5 year old MacBook with a Core 2 Duo than it does on my modern Windows ultrabook running a Core i5. 
+
+ITunes I would say is pretty awesome at managing music. It makes music tags easily editable and automatically downloads the correct official artwork. It also easily encodes music into nice widely supported formats. Not to mention the awesome support from devs to script actions. I don't remember which I have, but I have one that embed album artwork into the file. 
+
+I also really like how it can organize your folders for you. It caters perfectly to my orderly tendencies. ",1,0.479761904762,0.344828166388,0.690476190476,0.377100882319,1.0,1.0,117,0.0142857142857,13.0,0.266666666667,0.333333333333
+36,Windows hasn't been most popular for a couple years already.  This year looks to be one device sale in six or seven,3,0.55,0.388908729653,0.7,0.494974746831,0.55,0.7,23,0.0,11.5,0.55,0.7
+37,"Good luck with that. Take the same hardware and run os x on it, compared to windows. Windows is pathetically bloated and slow comparatively.
+
+In mobile, it takes double the cores and higher clock speeds just to bring windows even close to the same performance. Not only that, the custom GPU apple engineers onto their system on a chip gets amazing performance.
+
+Think about it. Apple gets Xbox 360 level graphics on a tiny, two core, one gig of ram device that's smooth as silk. You can't even run windows itself with less than 4 gigs without it pathetically stuttering on a full desktop system. ",1,0.152777777778,0.288070947913,0.438888888889,0.300427522755,1.0,0.95,107,0.0757575757576,13.375,-0.3,0.4
+38,MS Windows is a false analogy. Windows is a full product; Android is an open source distribution and treated that way by phone manufacturers. It more like if Ubuntu were based on modified Debian distribution from 18 months ago and a bug was found in a component of that old Debian distribution -- and now Ubuntu users are complaining that Debian won't fix the bug.,0,0.11,0.373329613077,0.47,0.128290035986,0.7,0.25,65,0.147058823529,21.6666666667,-0.1125,0.5625
+39,"Fortunately, UI controls are a shared ressources owned by the OS, not the app (except if you make your own custom controls with their own rendering functions). This means that android apps that run on windows will use ""windows styled"" controls. The same way a Java app on OSX will have a distinct OSX look, while the exact same app on PC will have a distinct Windows look. Of course, higher level design decision taken by the app developer might still clash with the windows 10 design guidelines.",3,0.3,0.222585813664,0.477777777778,0.388286835557,0.533333333333,0.9,88,0.0188679245283,22.0,0.17,0.22
+40,"DOS?  Man I was exposed to mainframes in the early 80s. Once you used Unix DOS and Windows was just a sickening joke. 
+
+Hell I paid for the minix tape. And had to jump through hoops people wouldn't believe to get it to run on a $6K 80386 with 4MB RAM ",5,-0.4,0.415932686862,0.65,0.433589667774,1.0,1.0,52,0.0,10.4,-0.9,1.0
+41,"Now go through there and find the quota limits. They were ridiculously low, making it impractical for any app with more than a few hundred users.
+
+Around late 2013, they increased it by about 10x. Still too small for a platform's main access to the service, though.
+
+Furthermore, that's an API that Google themselves did not use at the time, in either their iOS or Android apps, due to how limiting it was.
+
+It's precisely the same kind of shit that got Microsoft in hot water with private Windows APIs.",-1,0.0647435897436,0.168441934165,0.496794871795,0.231460739811,0.475,0.641666666667,93,0.06,15.5,0.175,0.641666666667
+42,"&gt;The text would either be remarkably small and almost unreadable
+
+Windows 8 has built in font scaling.  It's probably the only thing microsoft doesn't completely fuck up in windows 8 (just mostly, it doesn't play nice with multiple displays at different resolutions). 
+
+&gt;or just akwardly cramped
+
+On a 39 inch display not really, there are some good samsung displays in the 55-65 inch range that would make a nice 1-1 mapping from 4 small monitors in a 2x2 arrangement but they're still in the 2500-3000 dollar range.  If you could mirror to a seiki easily it would be fine.
+
+&gt;to my understanding intel is droping big money into APUs maybe soon phone APUs can handle multiple screens
+
+It's not screens that's really the problem it's resolution.  And we're already seeing UHD phones on qualcomm hardware, intel integrated GPU's are pretty much there at 4k/UHD if you're talking about general office tasks.  I wouldn't trust them with anything meaningfully 3D yet, at least not compared to the stuff from AMD and nVidia and qualcomm, but ya, we're not many hardware generations away from ditching the laptop and just having screens that mirror phones.  ",1,0.131818181818,0.210624308204,0.501515151515,0.190133620517,0.675,0.566666666667,207,0.0409836065574,29.5714285714,-0.25,0.4
+43,"Welcome to the reality of a growing market.   Google is going to be catering to the ~98% of their user base that just uses natural language searches,  not to the tiny handful that remember the advanced queries.  
+
+Honestly,  this is like DOS guys complaining about how Windows was ruining computing.  As personal/mobile computing becomes ever-more widespread,  it's going to become easier for everyday people to use as well. 
+
+Google is not going to cater to a few power users ahead of the billions of people online who aren't.   You might as well just accept that.  And in another twenty years,  most likely,  the idea of having to deal with search modifiers will be seen as just as antiquated as manually editing a config.sys file.   (And how many people *seriously* miss managing their own EMS/XMS?) 
+
+Times change.  Computer interfaces change.   That's life. ",1,0.151282051282,0.32052912028,0.666666666667,0.392863348443,1.0,0.9,144,0.0224719101124,13.0909090909,0.6,0.9
+44,"The difference between an Android update and any other mobile OS update is that with Android it's all public, while the other OEMs keep their updates secret until they roll them out. It's not so much that Android takes longer to get updated, but that we can see the gap between when it's ready and when it actually happens, which is especially apparent with Nexus devices.
+
+Android on average has seen an update every 6-9 months, and it can take between a few weeks and 6 months for the most recent update to get pushed out to our phones (depending on what phone we have and how big the update is).
+
+iOS has a yearly update that happens at the same time every year. So a few months before the update is ready, Apple stops working on it, locks down the code and starts the process of getting the update ready to roll out to all the devices. This process happens in private, so we can't see the months they spend going from code to an update ready to be pushed out. (Windows follows largely the same model, but they have a shorter, bumpier, history of updates).
+
+If we look at how many updates have actually been pushed out to phones Android is way ahead in both number and speed. The difference is that we can see clearly the lag between when the code is ready and when the update is ready. We can also see the difference between how long it takes to get an update ready for different phones. With iOS, that all happens behind closed doors, so we just see the update pop up one day.
+
+The Apple model makes us feel better, but the Android model gets more updates out faster. Given the number of articles that get written about Android updates, it seems that generally people, even people who are 'tech savvy, would prefer to feel better about their updates than to have more updates faster.",-6,0.0853710853711,0.197228448739,0.380877305877,0.111207610158,0.75,0.375,335,0.0,25.7692307692,0.107142857143,0.276785714286
+45,"I'm 31.  I had pretty icons to double click on my dads Amiga 2000 computer.
+
+In fact, the transition from when my dad got rid of his Amiga 2000 to a Windows based PC was pretty simple, it was pretty much the same thing.
+
+Drop down menus, a desktop, etc.",1,0.0993055555556,0.137147134202,0.496378968254,0.246370865237,0.295555555556,0.536428571429,51,0.0,12.75,0.14,0.536428571429
+46,"&gt; Rather than contributing to the project so that all Android customers would benefit, all of the handset manufacturers looked for ways to take advantage of free software while also differentiating their own build, contributing the bare minimum to the Android project.
+
+Right - ""embrace and extend."" Take the shared project, and then add stuff to drive a wedge between your variant and everyone else's.
+
+This was a problem four years ago - today, it's become a catastrophe. This critically impacts developers, because their apps run wildly differently on half of the devices and don't run *at all* on the other half. (Also, trying to submit and update your app to a half-dozen different app stores must be a lot of fun.)
+
+We can see the result of this sprawl by looking at Windows, which has struggled with similar problems for years. The upshot is that .NET is saddled with a bunch of half-implemented or previously-worked-but-now-broken APIs: old versions of DirectX, COM interfaces, replaced pen-and-touch layers, basic networking functionality that's been replaced with similarly-named equivalents, ActiveX cruft, Office interop libraries, etc. The only Windows functionality that devs can *rely* on as still being there in a few years is the absolute most basic stuff, which is why so many third-party apps have UIs that feel kind of primitive.
+
+Android has the same problem, but even worse. At most, Microsoft has had to support four concurrently-used versions of Windows to support (XP, Vista, 7, and 8) - Android currently has *eight*. How do you manage the development of an application to run well on eight different OS versions? Is that even possible? Or are app developers going to go the Linux route, and begin distributing their stuff as source code that users have to compile for their particular Android distro?
+
+The only thing crazier than the magnitude of this problem is Google's complete apathy about it.
+",23,0.124801587302,0.161085756867,0.515079365079,0.26683894883,0.55,1.0,317,0.0952380952381,21.1333333333,0.228571428571,0.575
+47,"Considering Windows is on around 90% of desktop and laptop computers, I would assume a repair tech would mostly work in Windows.",5,0.5,0.353553390593,0.5,0.353553390593,0.5,0.5,22,0.0714285714286,22.0,0.5,0.5
+48,"Your falling into the old ways of Microsoft thinking, the harden old grumpy man of the software industry. Google doesn't make it's money on software, they make it on advertising.
+
+Heck, even Microsoft abanded that viewpoint. I haven't had to buy a version of Windows since my last Windows 7 laptop in 2012. I got Windows 8 upgrade for free, 8.1 was free, and now my laptop will be upgraded to Windows 10 for free. I mean before hand I paid for different versions and would continue to, but Microsoft has pretty much thrown free software at me. How is that my fault as a consumer?
+
+Obviously Google is one of the biggest tech companies in the world and is only getting bigger. So if giving out free updates hasn't hindered that progress, thier employees are some of the best paid in the world [1](http://www.glassdoor.com/Salary/Google-Software-Engineer-Salaries-E9079_D_KO724.htm) [2](http://www.itworld.com/article/2693353/man-or-myth-the-3-million-google-engineer.html),         and consumers are happy. Where is your logic for paid updates?
+
+
+On a side note:
+
+http://www.fsf.org/
+
+The free software foundation. Without that, Linux might not be around like it is today. Free software is nothing new and has been fought for buy developers since the first program was written.
+
+",1,0.232902892562,0.186943531574,0.579183884298,0.339267891766,0.5,0.8,204,0.0350877192982,15.6923076923,0.0,0.0666666666667
+49,In my opinion there are way too many Windows Phones. Nowhere near the useless thousands of Android devices... but still way too many to where it confuses the customers.,1,0.15,0.329983164554,0.4,0.0942809041582,0.466666666667,0.133333333333,29,0.0,14.5,0.5,0.5
+50,"Got Windows 8? Install Hyper V from programs and features, spin up a VM and install Windows 7. You could even use Disk2VHD to clone the current Win7 PC.",1,0.0,0.0,0.4,0.230940107676,0.0,0.4,29,0.0,9.66666666667,0.0,0.0
+51,"&gt; Current devices will not be upgradeable to Windows 10, is my understanding.
+
+What the hell are you talking about? [Microsoft stated all current Windows Phone 8 devices will receive WP10](http://www.theverge.com/2014/11/13/7216421/microsoft-says-every-lumia-windows-phone-8-device-will-get-windows-10)",2,0.0,0.0,0.4,0.230940107676,0.0,0.4,33,0.142857142857,11.0,0.0,0.4
+52,"Hey, I didn't say Android was better, I said Windows doesn't live up to the claims made in the post I replied to. I quite freely admit that the state of Android is at least as bad as that of Windows on the updates front.",0,0.00727272727273,0.366409877524,0.573333333333,0.086424162145,0.518181818182,0.122222222222,47,0.0,23.5,0.318181818182,0.5
+53,"That's why I'm really excited for what Microsoft is going to offer with Windows 10 on phones. Windows is going to work with Android and iOS code so apps will be easy to port and Windows 10 is going to be an actual unified operating system now so you could technically run Windows desktop on your phone. I might be wrong with that and misunderstood something about te presentation since I wasn't really paying attention so someone who is more informed please correct me if I'm wrong with anything..
+
+ The thing about android and iOS code should be right though. That's the announcement that actually made me start paying attention to the new windows 10 features presentation.",1,0.084582841401,0.177430327663,0.488508461236,0.195572952628,0.45,0.472727272727,122,0.0714285714286,24.4,0.144444444444,0.344444444444
+54,The new Windows phones are amazing. I will definitely be switching to them,1,0.245454545455,0.260343860346,0.618181818182,0.125350747574,0.368181818182,0.177272727273,13,0.0,6.5,0.368181818182,0.677272727273
+55,"Can we stop with the stupid OS wars and fanboyism? There's no point in that and in case the downvotes didn't give it away, it just makes you look like an idiot.
+
+Also: 
+&gt; But the fact is 99% of these stories relate to Windows users. You cant get away from that.
+
+Obviously. Have you ever seen the Windows vs OS X marketshare? That's simply a stupid argument. 
+
+And before you try to deflect this reply by calling me a Windows fan-boy, I actually use OS X as my main OS. Windows is not even installed in either one of my two laptops. ",4,-0.372222222222,0.40783227005,0.622222222222,0.441989749057,0.883333333333,1.0,106,0.0192307692308,11.7777777778,0.0,0.0
+56,"Think of Android to Apple on mobile as Windows is to Apple on desktop. Apple tries to update devices universally, which is easy with similar hardware. Windows and Android try to be a bit more versatile; there is more application for them and they work with a much wider range of hardware. Because of this, these devices are hard to maintain. Windows does an O.K. job with security updates and service packs, but they won't give you the next version of windows for free. 
+
+Where android falls short is that it doesn't have any security updates, and it is sort of hard to do this with the design of android. It is created in a way which allows any manufacturer to change the system code, even the way it updates, so with that in mind, and especially the fact that every OEM will modify the software differently, it is somewhat impossible to send out any OS or security updates to all devices because generally the OS is only similar to AOSP, a.k.a. stock Android.
+
+The best thing for google to do would be to restrict the modification of the Android Operating system in certain applications, like mobile phones, through agreements (although I'm not sure how possible it is with Android being open source). However many people would disagree with this because it would break the core values that Android has created for itself.",1,0.0915674603175,0.233990527224,0.553207671958,0.262084331342,0.791666666667,0.75,236,0.0428571428571,21.4545454545,0.0,0.0
+57,"&gt; The upshot is that .NET is saddled with a bunch of half-implemented or previously-worked-but-now-broken APIs: old versions of DirectX, COM interfaces, replaced pen-and-touch layers, basic networking functionality that's been replaced with similarly-named equivalents, ActiveX cruft, Office interop libraries, etc. The only Windows functionality that devs can rely on as still being there in a few years is the absolute most basic stuff, which is why so many third-party apps have UIs that feel kind of primitive.
+
+Have you ever used their C++ libraries? If you think .NET libraries are saddled with half-implemented/Broken API I invite you to use their C++ libraries for stuff. At some point I had to crack open a book from 10 years ago to figure out how their driver framework works. Here is an example of a pretty strange API:
+
+      SetupDiGetDeviceInterfaceDetail(info, &amp;data, NULL, 0, &amp;bufferSize, NULL);
+              
+      if (GetLastError() == ERROR_INSUFFICIENT_BUFFER)
+      {
+            PSP_DEVICE_INTERFACE_DETAIL_DATA interfaceData;
+            interfaceData = (PSP_DEVICE_INTERFACE_DETAIL_DATA)malloc(bufferSize);
+            interfaceData-&gt;cbSize = sizeof(SP_DEVICE_INTERFACE_DETAIL_DATA);
+
+			//Call the function again now that there is a valid buffer size and buffer
+            SetupDiGetDeviceInterfaceDetail(info, &amp;data, interfaceData, bufferSize, NULL, &amp;DeviceInfoData);
+            [...]
+
+So... basically I have to call a function, have it return an error and then call it again a second time with the correct buffer size.
+
+Fun stuff this windows API...
+
+edit: Also imagine what a mess things like GetLastError() could be in a multithreaded environment if the function returns errors out of any thread context
+",1,0.0796875,0.109268178087,0.4609375,0.251956628921,0.366071428571,0.575,238,0.16,34.0,0.228571428571,0.575
+58,"PCs never really solved the issue. Windows runs on a bare minimum of your hardware. This is the very reason that drivers were invented. So that hardware related chunks could be swapped out at will.
+
+So yes... They could do that... But then they probably have to have someone write drivers for thousands of android handsets and their individually tailored hardware. ",1,0.03,0.0906326967175,0.28,0.173205080757,0.3,0.4,61,0.0238095238095,8.71428571429,0.05,0.1
+59,"If you were in fact literate, the study says that 3.4% of Mac page views had ad injectors. Compared with 5.1% of Windows page views. I'm not even going to speculate at how many more users Windows has, which makes me think Mac isn't perfect.",-1,0.666666666667,0.38490017946,0.666666666667,0.38490017946,0.666666666667,0.666666666667,47,0.0,15.6666666667,0.666666666667,0.666666666667
+60,Windows solved this for PCs 10 years ago.,1,0.0,0,0.0,0,0,0,8,0.0,8.0,0.0,0.0
+61,"Surface 3 is running full Windows 8.1, not Windows RT.  The ability to use a real operating system vs. a fairly gimped one is huge.  RT was a good idea on paper but it just fell flat without apps.",3,0.3875,0.0520972203709,0.5625,0.169096865731,0.0958333333333,0.3375,39,0.0,13.0,0.35,0.55
+62,"Right, we're talking about Surfaces, not Surface Pros.  The Surface 1 and 2 ran Windows RT, the 1, 2, and 3 Pros run full Windows.  The new Surface 3 (not pro) runs full Windows as well.",1,0.280519480519,0.0537769898478,0.522564935065,0.0244959589376,0.106818181818,0.0477272727273,37,0.0,12.3333333333,0.296590909091,0.526136363636
+63,"And the Surface 1 Pro ran full Windows as well. It didn't take the world by storm and I don't suspect the 3 will either. Don't get me wrong, it's a great piece of hardware and it will hopefully see success as such. I don't want an Apple monoculture any more than I enjoyed the Windows monoculture, and good products like the Surface will hopefully keep competition alive. 
+
+That being said I think you highly overestimate how desirable running full PC applications is to the average iPad purchaser. I'm sure it'll sway a few users over and more power to them. But the majority are perfectly happy with the functionality they have and won't see that as a compelling reason to switch platforms, any more than they did for the Surface 1 Pro.",1,0.306111111111,0.190568628364,0.554382716049,0.22072794841,0.533333333333,0.7,141,0.0845070422535,20.1428571429,0.35,0.55
+64,"I run one daily. Macs have always been more stable due to being much more difficult and/or less likely to be hacked/virus ridden/loaded up with a bunch of bullshit. Windows is stupid easy to crack. Even the newest versions. So it's perfectly valid if you're talking about outside sources. If you're smart about your PC, then windows is perfectly fine with no issues. But if you've ever worked in IT, then you know... most people are not smart. ",0,0.124365079365,0.229658501771,0.574047619048,0.334953436226,0.683333333333,0.916666666667,82,0.0416666666667,11.7142857143,-0.183333333333,0.916666666667
+65,"In my experience (T-Mobile customer for years), when that happens most apps cease to work. I don't think they drop you to 3G, I think they drop you to EDGE. A lot of apps, even apps that would have worked on the original iPhone, refuse to work on a new iPhone with EDGE. Spotify, for example. I don't expect to be able to stream, but even searching won't work on EDGE. Siri won't work on EDGE. Facebook and Twitter won't work on EDGE. I can't get maps to load on EDGE, even though mapping worked on my old Windows Mobile 5 phone before my carrier and phone even supported 3G.
+
+",39,0.322272727273,0.222209374603,0.505909090909,0.287615794658,0.5,0.625,116,0.0,14.5,0.1,0.2
+66,"Windows has never deleted my fonts... I've used XP, 7, and now 8, and other than 8's atrocious design issues and seemingly tablet-based UI style, I still prefer it any day to Mac OS. It's been 100%  reliable for me.
+
+Edit: granted, I've never used a windows phone, so if that's what your comment was referring to, I'll grant you the benefit of the doubt that it sucks. ",2,-0.375,0.210746441251,0.558333333333,0.326020033894,0.4125,0.6875,74,0.030303030303,18.5,0.0,0.0
+67,"&gt; I want Windows I can install on a PC that isn't (ever) online. 
+
+Sadly that boat sailed with Windows XP. The last great Windows version.",0,0.1,0.450924975282,0.605555555556,0.502793124382,0.9,1.0,27,0.0,9.0,0.4,0.408333333333
+68,Windows X,4,0.0,0,0.0,0,0,0,2,0.0,2.0,0.0,0.0
+69,"Windows Zero.
+
+Next major update can be Windows Zero: Divided
+
+It will make your CPU explode, so an ordinary MS update when it hits.",18,-0.0625,0.0441941738242,0.333333333333,0.235702260396,0.0625,0.333333333333,24,0.0,12.0,-0.0625,0.333333333333
+70,"How many Windows Vista systems do you still use?
+
+We have a crazy variety of systems still in active use, everything from OS/2 Warp to Windows NT 4 to FreeBSD and yes, Vista. Things like a never-ending blinking of the HDD LED got me to open Performance Monitor to see what was using so much I/O. It was Indexing. Programs and files that hadn't been opened in weeks were being indexed again and again. The same shit that caused so much trouble for me back in 2006 with Vista was still doing that on an up-to-date 2015 install.
+
+Guides like [this one](http://www.ithacks.com/2007/06/19/disabling-windows-search-in-vista-stop-hard-drive-running-constantly/)  started popping up like crazy after Vista came out. The part of ""your computer is indexing your hard drives for hours at a time during the day, robbing it of performance"" is **exactly** the issue that we still get trouble tickets opened for. I have no idea why these people cannot just move to Windows 7. Indexing (and superfetch) are supposed to be things that make the computer faster, but it just never worked right on Vista for so many people.
+
+Going from **any** other OS - older versions of Windows, newer versions of Windows, Linux, OS X (or whatever) back to Windows Vista is such a jarring experience. Within a few minutes it's easy to see why it was so hated. The number of actions that trigger *so many* UAC prompts is just crazy.
+",1,-0.0505952380952,0.283422340449,0.45808531746,0.291293475073,1.1,0.9,241,0.0289855072464,18.5384615385,0.5,0.5
+71,"I bet they'll release Windows Z, Windows X and XI, The final Windows, Windows 2: One Last Boot and Windows Next Generation before they bankrupt in year 3877.",16,0.0,0.0,0.355555555556,0.494694069322,0.0,1.0,29,0.0,29.0,0.0,0.355555555556
+72,"I'm by no means saying Vista was perfect. It wasn't. What I am saying is with a lot of it's great improvements it also came with dumb bullshit that should have worked. 
+
+If indexing worked 100% in Vista like a fixed Windows 7. It would have been better. It didn't so it's not the best and we know that, but it did have its cool parts.",3,0.482142857143,0.381969948643,0.557142857143,0.346289859318,1.0,1.0,71,0.0294117647059,11.8333333333,0.1,0.2
+73,"Not sure what to think about this, is this some kind of late April fools joke? I have huge concerns with this. 
+
+1. I guess we will be charged for installments? 
+
+2. Unity - If the ""installments"" are optional and paid, seems like there is no way to enforce unity. Because of this nothing is solved. Chrome work on an auto update model, but Chrome is free, Windows is not.  
+
+3. People actually like OS innovation. Saying this is the last version of Windows sort of implies we've reached the end of OS innovation. Almost like ruling out any future paradigm shifts. 
+
+4. Backwards compatibility. Windows is huge and covers a lot of ground, stuff is going to break. 
+
+5. They're not leaving room for huge changes such as a registry free version of Windows, or any hope of DE's for Windows. Since installments will be more frequent and API's will change, will be harder to target the platform as a developer (and more costly).  ",0,0.190625,0.162150131712,0.548784722222,0.369103983589,0.4,0.9,168,0.0416666666667,9.33333333333,0.4,0.85
+74,"Why would Microsoft talk about whatever is the next Windows in the first place?  They are working hard to get everyone on board with Windows 10 and mentioning any newer version would give some fodder to those on the fence about upgrading.
+
+Keeping a consistent message is something MS hasn't done in a long time.  At this point, the only things coming out of their mouths should all be about Windows 10 and nothing more.",0,0.0940476190476,0.234372685174,0.432142857143,0.254451115876,0.541666666667,0.583333333333,76,0.0,19.0,0.125,0.166666666667
+75,"Did you even bother to read the article or just decide to bitch about non-existing bs? 
+
+1. No, they're all free. 
+2. Again, Windows 10 updates will be free
+3. No it does not by any means, if you actually **read the article** he states that updates wont be what people wanted 3 years ago, updates will be released in 'high gear'
+4. Where does it say backwards compatility is out? It's not. I have Windows 10 installed on my PC, it goes back several Windows versions like every other OS. 
+5. Actually it's the exact opposite. Windows 10 will be more flexible that it's ever been in it's history. It's far closer to Linux in regard to a very small base and huge potential. Refrigerators will even have Windows 10, same with ATMs. ",3,0.0564705882353,0.192275748263,0.471176470588,0.339264279768,0.625,0.884,140,0.0394736842105,10.0,-0.0416666666667,0.125
+76,"This is the best tl;dr I could make, [original](http://www.bbc.co.uk/news/technology-32658340) reduced by 77%. (I'm a bot)
+*****
+&gt; &amp;quot;Windows will be delivered as a service bringing new innovations and updates in an ongoing manner,&amp;quot; it said, adding that it expected there to be a &amp;quot;Long future&amp;quot; for Windows.
+
+&gt; He said Microsoft had in the past deliberately avoided using the name &amp;quot;Windows 9&amp;quot; and instead chose Windows 10 as a way to signify a break with a past which involved successive stand-alone versions of the operating system.
+
+&gt; Moving to a situation in which Windows is a constantly updated service will break out of this cycle, and let Microsoft tinker more with the software to test new features and see how customers like them, he added.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/35c4rz/microsoft_to_stop_producing_windows_versions_bbc/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ ""Version 1.5, ~16416 tl;drs so far."") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr ""PMs and comment replies are read by the bot admin, constructive feedback is welcome."") | *Top* *five* *keywords*: **Windows**^#1 **Microsoft**^#2 **new**^#3 **update**^#4 **version**^#5
+
+Post found in [/r/windows](/r/windows/comments/35bext/microsoft_to_stop_producing_windows_versions_bbc/), [/r/worldnews](/r/worldnews/comments/35beq0/microsoft_to_stop_producing_windows_versions_bbc/), [/r/news](/r/news/comments/35azc9/microsoft_to_stop_producing_windows_versions/), [/r/DailyTechNewsShow](/r/DailyTechNewsShow/comments/35bkhg/microsoft_to_stop_producing_windows_versions_bbc/) and [/r/technology](/r/technology/comments/35bd3c/windows_10_is_going_to_be_the_last_major_revision/).",0,0.233884297521,0.446919066763,0.485674931129,0.291365370386,1.25,0.75,203,0.147826086957,29.0,0.212121212121,0.429292929293
+77,"This is the best tl;dr I could make, [original](http://www.bbc.com/news/technology-32658340) reduced by 77%. (I'm a bot)
+*****
+&gt; &amp;quot;Windows will be delivered as a service bringing new innovations and updates in an ongoing manner,&amp;quot; it said, adding that it expected there to be a &amp;quot;Long future&amp;quot; for Windows.
+
+&gt; He said Microsoft had in the past deliberately avoided using the name &amp;quot;Windows 9&amp;quot; and instead chose Windows 10 as a way to signify a break with a past which involved successive stand-alone versions of the operating system.
+
+&gt; Moving to a situation in which Windows is a constantly updated service will break out of this cycle, and let Microsoft tinker more with the software to test new features and see how customers like them, he added.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/35c5gz/microsoft_to_stop_producing_new_windows_versions/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ ""Version 1.5, ~16439 tl;drs so far."") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr ""PMs and comment replies are read by the bot admin, constructive feedback is welcome."") | *Top* *five* *keywords*: **Windows**^#1 **Microsoft**^#2 **new**^#3 **update**^#4 **version**^#5
+
+Post found in [/r/technology](/r/technology/comments/35b4ny/microsoft_to_stop_producing_new_windows_versions/) and [/r/realtech](/r/realtech/comments/35b56u/microsoft_to_stop_producing_new_windows_versions/).",-1,0.233884297521,0.446919066763,0.485674931129,0.291365370386,1.25,0.75,197,0.110091743119,28.1428571429,0.212121212121,0.429292929293
+78,I work for a Uni that deploys many Windows computers and the most recent IE update broke the ability for people to choose search providers... so I have to use the IE branding tool now...,3,0.333333333333,0,0.416666666667,0,0,0,35,0.0,35.0,0.333333333333,0.416666666667
+79,Checking online to see if you have a valid copy of the software is not exactly snooping. Windows has been doing that for years.,0,-0.125,0.0883883476483,0.25,0.176776695297,0.125,0.25,24,0.0,12.0,0.0,0.0
+80,"&gt;Can you imagine the fervor over angry customers when one day their system will not boot because they didnt pay their subscription fee?
+
+Is that what you think happens when people don't buy licenses for Windows today?
+
+Windows has never refused to boot if you don't pay for it. At worst, it goes into a cycle where it will shutdown after it has been in use for an hour. So you computer always remains usable.",2,-0.75,0.4472135955,1.0,0.547722557505,1.0,1.0,78,0.0238095238095,15.6,0.0,0.0
+81,"They'd never charge a subscription for the entire Windows update. They need to be able to provide patches for Windows for free for security reasons. However they could certainly charge for ""service packs"" which would essentially be the replacement for new versions of Windows. ",1,0.208441558442,0.233498222987,0.562662337662,0.138035836509,0.45,0.270508658009,45,0.103448275862,15.0,0.0,0.625
+82,"I'm close myself. I've been using Linux since 1998, but never full-time. A few recent bad power-management experiences with a pair of Bay Trail devices (Asus T100 and Vivotab 8) have soured me on the idea of tablets with full-scale Windows. Android and IOS can't run classic desktop software out-of-the-box, and are far too walled-garden for my tastes. That pretty much leaves Linux on an x86 tablet as my only hope for lightweight computing where I remain in control of the device. I'm hoping that by the time my current hardware gives out, there'll be a quality x86 tablet with a good touch-friendly stock install of a mainstream Linux distro.
+
+Dear Microsoft and Intel: ""Connected Standby"" is a buggy battery-draining pile of shit, I'm never recommending another Windows 8 Bay Trail device until you give us a *real* sleep mode. What's the damn point of a tablet that needs to be shut down in order to avoid draining 10-20% battery per hour? My T100 battery actually drains faster when in this fake ""sleep"" mode than when it's on!",0,-0.00375816993464,0.194987359338,0.527777777778,0.258001844933,0.6625,0.733333333333,186,0.0727272727273,20.6666666667,-0.14,0.423333333333
+83,"I'd be all for that. Imagine a high-rise building where all the Windows are solar,.. and those windows are all modularly connected into the buildings electricity network.. it could provide a pretty significant offset of electrical use. ",1,0.3125,0.220970869121,0.9375,0.662912607362,0.3125,0.9375,38,0.0952380952381,19.0,0.3125,0.9375
+84,"I'm close because the only real thing keeping me using Windows is the games... Steam went and fucked up that by supporting Linux.  I'd only lose about 40% of my library... Most of the other things I've found open source equivalents, and Linux has made huge leaps and bounds in user simplicity in the last 5 years.",1,0.0625,0.14497126152,0.559166666667,0.249076070486,0.33,0.531666666667,60,0.0285714285714,15.0,0.1,0.65
+85,"""Oh God Oh god!"",
+""What is it Terry?""
+
+""Windows pushed out another update and now none of our systems work with the new patch""
+
+""Well $&amp;(%""
+
+I know this because it happens every time chrome pushes an update and that's just a web browser :(",67,-0.306818181818,0.177141559865,0.727272727273,0.419891104865,0.306818181818,0.727272727273,45,0.0,15.0,-0.306818181818,0.727272727273
+86,"Big-time enterprise software move.  This effectively eliminates the need for Microsoft to support big .com/.gov types for 10 years after an  OS release.  They will either have to migrate platforms or pay (probably a larger sum) money to ensure their volume licensing agreement includes desktop OS upgrades.
+
+I can't imagine that a large amount of money gets made from Best-Buy, Newegg, or Amazon.com builder Windows plastic-wrapped OS purchases.  Most people probably never even upgrade their Windows-based computers due to the overall complexity.  Their computers simply just stagnate on the existing version.  Microsoft probably can't change that easily, so they make the investment real by charging a subscription.  And since the retail market can't be entirely written off, the only way I can imagine this working is ensuring that upgrades are seamless.  Probably through Windows Store.",14,0.147893772894,0.134252254359,0.455311355311,0.219276195584,0.316666666667,0.575,138,0.0430107526882,15.3333333333,0.214285714286,0.428571428571
+87,"Windows 10: Green hills
+
+Windows 10 service pack: Blue Sky With Clouds",38,-0.1,0,0.2,0,0,0,12,0.0,12.0,-0.1,0.2
+88,"&gt;lol microsoft fanboy is mad
+
+-Guy who came into a post about Windows just to say ""fuck Windows.""",16,-0.5125,0,0.8,0,0,0,19,0.0,19.0,-0.5125,0.8
+89,"It all sounds fine until 5 years from now you have to install clean from a Windows 10 DVD and wait another year for all the patches to download, especially as Microsoft has moved far away from allowing you to slipstream (eg Windows 8.1) or even releasing service pack bundles at all. 
+
+This is a dumb as shit idea. ",9,0.0513888888889,0.359445947103,0.75,0.106066017178,0.508333333333,0.15,59,0.0,29.5,0.220833333333,0.8
+90,"I really hope so, but they fired half of their testers mid-way in the Win10 dev cycle.  And they may repeat the same mistake they had with IE6 - where they disbanded the team.
+
+Windows is going to be around, but it seems like it will be getting much smaller updates.  I am not sure that's sustainable in the long term, since it makes it impossible to make revolutionary improvements, like the introduction of a new filesystem (which has been in the works since Longhorn) or a UI large rework.",0,-0.0647426647427,0.0648571478174,0.462630270964,0.245852418666,0.13987012987,0.509401154401,90,0.078431372549,22.5,0.0,0.5
+91,"You're right. However, you can use the evaluation key to do the install, and then once inside Windows activate it with your 8.1 key. 
+
+Not saying you're wrong, just telling you a work around! All of my keys are for 8 but I only ever use 8.1 installs because the in-place upgrade between the two is cumbersome and time consuming.",7,-0.0678571428571,0.384481882573,0.887142857143,0.220572461754,0.910714285714,0.464285714286,62,0.0,15.5,0.0,1.0
+92,"Right now it seems like MS is planning to switch from selling the OS to selling everything around the OS while giving the core platform out for free. Or, they expect enough sales forced by hardware upgrades with OEM installs plus enterprise subscriptions. Neither requires a paid subscription for the average user.
+
+Either way, there is finally a clear path to one Windows version everywhere. This will make Windows support cheaper for MS, but it can also mean substantial savings for anyone with a WTF software stack based on multiple Windows versions. Consider how much resources it takes globally to maintain all those randomly cobbled together setups. I would now like to welcome our new (old) OS overlords.",6,0.0173051948052,0.249422320234,0.45073953824,0.146334482237,0.616287878788,0.434523809524,118,0.0405405405405,16.8571428571,-0.270833333333,0.5625
+93,"*measure and compare ecosystems based on the number of apps* 
+
+""sweet Jesus Windows is a ghost town!""
+
+---
+
+*losen app approval restrictions to allow greater number of apps* 
+ 
+""sweet Jesus Windows is full of spam!""
+
+
+Pick 1.",18,0.43125,0.250219810774,0.5875,0.353684312053,0.4375,0.65,36,0.0416666666667,12.0,0.433333333333,0.608333333333
+94,"So let me get this straight, I have windows 7 so I get to update to Windows 10 for free, then I just accept free Windows updates forever and don't have to buy Windows ever again? 
+
+How much spyware am I going to have to endure? ",4,0.3,0.0942809041582,0.55,0.329983164554,0.133333333333,0.466666666667,47,0.0,23.5,0.333333333333,0.666666666667
+95,"That's not Nadella's style though. My bet is he'll keep it free and with perpetual updates to keep market dominance, while making up the revenue with value-added services like OneDrive and Office.
+
+Don't forget, they're still charging OEMs (The vast majority of new Windows purchases) and enterprise customers for license fees, either as a single per unit perpetual license in the case of OEMs and annual volume licenses for enterprises, so they're not losing their bread and butter sales.
+
+By making windows a one time cost for home users (until they replace their machine) they are attempting to ensure that windows is what the workforce is familiar with, which will influence employers to stick with windows to keep training costs down.",2,0.114063251563,0.184318280923,0.542953342953,0.336042725369,0.4,0.8,127,0.0243902439024,31.75,0.021645021645,0.556277056277
+96,"As someone who has been driving semis for over two decades I'm not worried yet. The trailer/load combinations that autonomous systems have to deal with are like Windows with hardware in a PC, it runs into millions. It is going to be a very very long time before you have an autonomous semi-truck where you can stick a 20ft urban trailer on delivering palletised goods for one load then change that for a 45ft one carrying 20 tons of unbaffled milk. ",2,0.18375,0.206399917456,0.48,0.351525774831,0.4,0.7,82,0.0416666666667,27.3333333333,0.4,0.7
+97,"That's very well put, I'd forgotten but I actually still have (I think) a perfectly good color inkjet printer of some kind out in the garage that the vendor didn't update past Windows XP, the fuckers.",1,0.25,0.137120688933,0.43,0.234631803755,0.2625,0.4625,39,0.0,39.0,0.25,0.43
+98,"I don't need to go to the Play store everytime I update something. Same idea. You'll need to go to the Windows store now and then, but mostly not. 
+
+If you're saying ""I don't want to *ever* go to the Windows store"", you may be out of luck, but what would you rather have? They want to make desktop more like mobile in that it could update parts of the system in a modular way. This necessitates a store of some sort. It's like how Windows comes with IE but you can download alternatives. The base system needs a default interface for downloading apps and it sounds like this will behave like Windows Update but with more features. 
+
+Besides, if you really hate it, I'm sure Amazon or someone will come out with a competing app store. As long as MS doesn't block that, but I see them going more open with their systems and products, so I want to bet they'll give us some choice. Hell, they opened up the .net framework. ",2,0.01,0.194702570371,0.581388888889,0.338215301765,0.75,0.894444444444,181,0.0309278350515,16.4545454545,0.0,0.0
+99,Windows has done it with 8.1. Updated to Skype for Business from Lync Business.,1,0.0,0.0,0.0,0.0,0.0,0.0,14,0.0,7.0,0.0,0.0
+100,"Really?  Many reasons.
+
+1.  Because there are a great many operations that need to be done on the client and can't run in the cloud.
+2.  Because there are a lot of scenarios where the user doesn't have connectivity, and yet stuff needs to continue to work.  E.g. laptops, or for people without broadband.
+3.  Speed &amp; performance.
+4.  Windows is a client OS.  Why build a brand new architecture and infrastructure from scratch, that would work half the time for a tenth of the people, when they can leverage the existing systems, knowledge, developers, etc.",1,0.353939393939,0.2190255797,0.474242424242,0.21819638646,0.665151515152,0.625,98,0.0754716981132,7.53846153846,0.0,0.0
+101,"This is a very welcome change I would say. For the past few versions Windows has been reintroducing same features with different interface or slightly modified function. Let's take an example of Windows Backup. The backup taken on Windows XP cannot be restored on Windows Vista. The backup taken on windows Vista cannot be restored on Windows 8 and for some reason Microsoft has removed the 'Windows 7 backup' function completely in Windows 8.1, although it was a point update. That doesn't make any sense. I believe with this move Microsoft will keep some core features consistent and at the same time optimise the performance of the OS. Windows 10 is promising OS indeed.
+
+
+www.techliteral.wordpress.com",1,0.0933333333333,0.334024052878,0.351666666667,0.335520199112,1.12333333333,1.0,119,0.0434782608696,13.2222222222,-0.123333333333,0.248333333333
+102,"This is actually pretty smart.  I bet outside of business, most consumers never update their OS, they buy a new machine with the OS loaded and paid for by the manufacturer.  This is like offering a lifetime warranty on a product that nobody will keep after 5 years.  Most of their sales are through OEM I imagine.  Not sure how this fits into the business side.  It helps drive server products, and CAL sales, etc, but definitely a big hit on the revenue.  Perhaps they will still require a desktop access license or something, like they do with VDA.
+
+Another part of me thinks this might be a prelude to Microsoft taking Azure and hosted services to the next step, virtualized desktops to compete with VMware View and Citrix XenDesktop.  Neither of them are offering a cloud version of those, just the software to do it on your own hardware.  Microsoft ""absorbs"" the cost of Exchange on their backend, when you get an Office 365 mailbox, this would be much of the same thing.  Windows is free...on your $20 a month cloud desktop.",2,0.179220779221,0.245898548324,0.455107623858,0.393111819486,0.85,1.0,184,0.0181818181818,16.7272727273,0.0,0.0
+103,"Please provide a source where Microsoft has made an official announcement that Windows 10 will not be subscription based.
+
+I just did a quick Google, and I find no official Microsoft announcement, just a lot of speculation.  [It's pricing and price structure are still not fleshed out yet](http://www.cnet.com/news/windows-10-pricing-after-first-year-remain-up-in-the-air/)
+
+What MS has announced, is that for the first year after W10 release, any one running Windows 7, 8 or 8.1 will be able to upgrade to W10 at no cost, and they will never have to pay for that particular license for the life of the PC and still get updates.  
+
+Anyone running Vista or older will have to pay, and if you upgraded, but then bought a new computer, you'll have to pay.  The pricing has yet to be announced, and the last official word from MS is that they have not ruled out a subscription-based model.  ",1,0.221861471861,0.16006595544,0.37803030303,0.228004741456,0.333333333333,0.5,151,0.08,30.2,0.305555555556,0.430555555556
+104,"Very true. If they are working on getting Windows working on everything, it isn't that far of a jump to imagine some type of cloud desktop you can access from anywhere. View your desktop on your tablet or phone and access all your normal programs/files from Onedrive. ",1,0.235,0.192158788506,0.831666666667,0.175380538639,0.355,0.35,48,0.0333333333333,16.0,0.1,1.0
+105,"It won't, they'll release the service packs then announce Windows 11",1,0.0,0.0,0.0,0.0,0.0,0.0,13,0.0,13.0,0.0,0.0
+106,"There should be a YouTube channel of people installing old software on new computers.  I'm pretty boring, so I'd probably tune in to see how many updates a 1.0 AOL CD goes through before it's current.  :p
+
+**EDIT:**  [Upgrading Windows 1.01 to Windows 8](https://www.youtube.com/watch?v=Ep1MvNyHSWs)
+
+I actually watched it and it was as entertaining as I had expected.  :p",22,0.171487603306,0.348457467633,0.614049586777,0.284181046307,0.8125,0.672727272727,64,0.1,16.0,0.2875,0.55
+107,"Active Directory is a directory service that Microsoft developed for Windows domain networks and is included in most Windows Server operating systems as a set of processes and services.
+
+An AD domain controller authenticates and authorizes all users and computers in a Windows domain type networkassigning and enforcing security policies for all computers and installing or updating software. For example, when a user logs into a computer that is part of a Windows domain, Active Directory checks the submitted password and determines whether the user is a system administrator or normal user.
+
+Active Directory makes use of Lightweight Directory Access Protocol (LDAP) versions 2 and 3, Microsoft's version of Kerberos, and DNS.",1,0.0583333333333,0.118055555556,0.541666666667,0.290384084734,0.288888888889,0.625,113,0.0579710144928,28.25,0.155555555556,0.466666666667
+108,"I remember when Windows came on 21 floppy disks.   
+
+And when floppy disks stopped being floppy. 
+",1,0.0,0.0,0.0,0.0,0.0,0.0,16,0.0,8.0,0.0,0.0
+109,The day Windows becomes a subscription service is the day that Linux Mint becomes my primary OS. ,-2,0.4,0,0.5,0,0,0,17,0.111111111111,17.0,0.4,0.5
+110,"So, in a nutshell, Windows becomes a rolling release OS.",23,0.0,0.0,0.0,0.0,0.0,0.0,10,0.0,10.0,0.0,0.0
+111,Which is the sole reason I'm still using Windows. Windows moving to a subscription service would give Linux/SteamOS a major kickstart though.,0,0.03125,0.0441941738242,0.375,0.176776695297,0.0625,0.25,23,0.125,11.5,0.0625,0.5
+112,"I'm looking forward to this.
+
+Having my gaming PC sync with a cheap Windows Tablet and my Windows Phone will be amazing on its own.
+
+Everything running a flavor of Windows 10 will be an amazing feet.",1,0.55,0.328858857488,0.875,0.510265000142,0.6,0.9,38,0.0,12.6666666667,0.533333333333,0.866666666667
+113,"Yeah.. I've worked in IT for decades,.. so I get why you'd want different versions. (and realize they can't change it ""overnight""),... but I'm still a little disappointed (to be bluntly honest). I want to see more indications of the ""New Microsoft""... not more habits of the ""old Microsoft"". (and yes, again.. I realize how hard it is to change course of a ship that big). 
+
+EDIT,... additionally,. I wanted to add:.. For me, one of the biggest (if not **THE BIGGEST**) frustration that I've always had with Microsoft Windows is the Versions/Licensing model. It's infuriatingly complex. (especially compared to Linux or OSX or other platforms that seem much more simplified). I think Microsoft would do themselves (and their clients) a huge favor if they simplified it as much as humanly possible. In a perfect world,.. there should be 1 version.. it should be called ""Windows"". During the install process it should either intelligently detect the capabilities of your hardware,.. OR.. allow you to customize/choose what options you want. 
+
+",11,0.125378787879,0.366042470334,0.637958532695,0.378666540395,1.3,1.0,175,0.1,13.4615384615,0.25,1.0
+114,"For the lazy:
+   
+* Windows 10 home
+   
+* Windows 10 Mobile
+   
+* **Windows 10 Pro** &lt;- the one you'll ""purchase"".
+   
+* Windows 10 Entreprise
+   
+* Windows 10 Education
+   
+* Windows 10 Mobile Entreprise
+
+* Windows 10 IoT Core
+   
+* Windows 10 .net Jaguar
+   
+",19,-0.25,0.176776695297,1.0,0.707106781187,0.25,1.0,36,0.0,18.0,-0.125,0.5
+115,"This is the best tl;dr I could make, [original](http://www.theverge.com/2015/5/13/8599841/windows-10-home-mobile-pro-editions) reduced by 74%. (I'm a bot)
+*****
+&gt; Windows 10 Home is what Microsoft calls the &amp;quot;Consumer-focused desktop edition.&amp;quot; It&amp;#039;s the edition that will ship on most home PCs and laptops, and it includes all of the main Windows 10 features like the new Microsoft Edge browser, Windows Hello face-recognition, and built-in universal apps.
+
+&gt; To complement the home desktop version, Microsoft also has a Windows 10 Pro edition.
+
+&gt; Alongside these main editions, Microsoft will have Windows 10 Enterprise, Windows 10 Education, and Windows 10 IoT Core for smaller gateway devices.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/35uu0h/microsoft_reveals_all_the_editions_of_windows_10/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ ""Version 1.5, ~17507 tl;drs so far."") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr ""PMs and comment replies are read by the bot admin, constructive feedback is welcome."") | *Top* *five* *keywords*: **Windows**^#1 **Microsoft**^#2 **edition**^#3 **Phone**^#4 **new**^#5
+
+Post found in [/r/technology](/r/technology/comments/35udrt/microsoft_reveals_all_the_editions_of_windows_10/), [/r/DailyTechNewsShow](/r/DailyTechNewsShow/comments/35ur51/microsoft_reveals_the_seven_editions_of_windows_10/), [/r/TechNewsToday](/r/TechNewsToday/comments/35uq9y/microsoft_reveals_all_the_editions_of_windows_10/), [/r/geekdays](/r/geekdays/comments/35ur4m/microsoft_reveals_the_seven_editions_of_windows_10/), [/r/Techfeed](/r/Techfeed/comments/35uexw/microsoft_reveals_all_the_editions_of_windows_10/) and [/r/realtech](/r/realtech/comments/35ue4g/microsoft_reveals_all_the_editions_of_windows_10/).",3,0.33696969697,0.391164084813,0.482121212121,0.350737628734,1.0,1.0,176,0.161904761905,25.1428571429,0.200757575758,0.32196969697
+116,"This is the best tl;dr I could make, [original](http://blogs.windows.com/bloggingwindows/2015/05/13/introducing-windows-10-editions/) reduced by 90%. (I'm a bot)
+*****
+&gt; No matter which Windows 10 device our customers use, the experience will feel comfortable, and there will be a single, universal Windows Store where they can find, try and buy Universal Windows apps.
+
+&gt; As we announced earlier this year, for the first time ever, we are offering the full versions of Windows 10 Home, Windows 10 Mobile and Windows 10 Pro as a free and easy upgrade for qualifying Windows 7, Windows 8.1 and Windows Phone 8.1 devices that upgrade in the first year after launch.
+
+&gt; Customers will continue to help us create Windows 10 even after this summer&amp;#039;s initial release, thanks to the 3.9 million and growing Windows Insiders who are helping us build and test Windows 10.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/35v6bx/introducing_windows_10_editions/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ ""Version 1.5, ~17811 tl;drs so far."") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr ""PMs and comment replies are read by the bot admin, constructive feedback is welcome."") | *Top* *five* *keywords*: **Windows**^#1 **device**^#2 **customer**^#3 **Mobile**^#4 **Enterprise**^#5
+
+Post found in [/r/windowsphone](/r/windowsphone/comments/35ue67/introducing_windows_10_editions/), [/r/microsoft](/r/microsoft/comments/35ueiq/introducing_windows_10_editions/), [/r/Windows10](/r/Windows10/comments/35uf0g/introducing_windows_10_editions/), [/r/WindowsMobile](/r/WindowsMobile/comments/35ue49/introducing_windows_10_editions/), [/r/windows](/r/windows/comments/35udyi/introducing_windows_10_editions/), [/r/realtech](/r/realtech/comments/35ui1q/introducing_windows_10_editions/), [/r/Windows10M](/r/Windows10M/comments/35uloj/introducing_windows_10_editions/) and [/r/technology](/r/technology/comments/35uh84/introducing_windows_10_editions/).",1,0.288244047619,0.370751164114,0.454017857143,0.334748877249,0.917857142857,0.9,213,0.165354330709,30.4285714286,0.0910714285714,0.176785714286
+117,"These seven editions appear to include the succesor to Windows Phone and the embedded version of Windows, so they appear to further integrating.
+
+What I got so far:
+
+|Windows 10 Version| Predecessor Equivalent|
+|:--:|:--:|
+|Windows 10 Home| Windows 8.1||
+|Windows 10 Pro| Windows 8.1 Pro|
+|Windows 10 Enterprise|Windows 8.1 Enterprise|
+|Windows 10 Mobile| Windows Phone 8.1|
+|Windows 10 Mobile Enterprise| - |
+|Windows 10 Education|-|
+|Windows 10 IoT Core|Windows Embedded Industry|
+
+The only two new ones are an enterprise version of the mobile version of the OS. there hasn't really been one so far, mostly due to lack of Enterprise features and because BYOD meant that Enterprises didn't buy either devices nor OS licenses for them. Hopefully the existence of this SKU means that they now have something to sell people.
+
+The Education version also makes sense. There have been special education discounts and licenses all along. If they tie it to a version it might actually uncomplicated things a bit.
+
+Still the list does not include the server versions. Windows server 2016 which will likely come in at least two license versions (Datacenter and Standard) if they keep with the previous scheme as well as the free Hyper-V version. (They will likely have one more installation type than previous thanks to their new Nano server installation option.) There might also be a Successor to SBS/Essentials as well as the multipoint Server. Plus the new version will be used at some point in their cloud/azure offering.
+
+At some point they will also have to bring their gaming OS version into Windows 10 line.
+
+So it seems that there are going to be a lot of different version, but on the bright side there seems to be no more Windows RT.",4,0.0851261057783,0.103164554776,0.532321663843,0.291754110897,0.370476190476,0.818181818182,289,0.0568181818182,20.6428571429,0.15,0.633333333333
+118,Windows is huge but I'm not interested in what Microsoft has to offer.,1,0.1375,0,0.7,0,0,0,14,0.0,14.0,0.1375,0.7
+119,"Samsung store - Phones, tablets, laptops
+
+Windows store - Phones, tablets, laptops
+
+Android store - Phones, tablets
+
+Apple store - Phones, tablets, laptops, desktops
+
+Razer - tablets, keyboards, mice
+
+Crucial - Ram, SSD
+
+To name a few.",0,-0.1,0.057735026919,0.55,0.287491765363,0.2,1.0,31,0.0,31.0,-0.1,0.55
+120,"Well.  Its a good thing a friend gave me 3 legit Windows 8.1 Pro keys.
+
+They've just been sitting in a drawer for a while now.",1,0.7,0.404145188433,0.6,0.346410161514,0.7,0.6,27,0.0,9.0,0.7,0.6
+121,"This is the best tl;dr I could make, [original](http://arstechnica.com/information-technology/2015/05/android-and-ios-apps-on-windows-what-is-microsoft-doing-and-will-it-work/) reduced by 95%. (I'm a bot)
+*****
+&gt; Famously, IBM advertised OS/2 as a &amp;quot;Better Windows than Windows&amp;quot; in the 1990s, boasting that its platform would run all your existing Windows applications with greater stability and performance.
+
+&gt; The Win32 API that almost all Windows software use is obviously the biggest and best known of these APIs, and in modern versions of Windows is in fact the only API.
+
+&gt; The POSIX subsystem was an optional Windows component as recently as Windows 7, though it isn&amp;#039;t supported in Windows 8.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/35xals/android_and_ios_apps_on_windows_what_is_microsoft/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ ""Version 1.5, ~18187 tl;drs so far."") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr ""PMs and comment replies are read by the bot admin, constructive feedback is welcome."") | *Top* *five* *keywords*: **Windows**^#1 **Android**^#2 **API**^#3 **App**^#4 **support**^#5
+
+Post found in [/r/microsoft](/r/microsoft/comments/35x2p1/android_and_ios_apps_on_windows_what_is_microsoft/), [/r/windowsphone](/r/windowsphone/comments/35b048/peter_bright_wrote_a_really_informative_article/), [/r/Android](/r/Android/comments/35acqp/android_and_ios_apps_on_windows_what_is_microsoft/), [/r/programming](/r/programming/comments/35atcm/android_and_ios_apps_on_windows_what_is_microsoft/), [/r/technology](/r/technology/comments/35cttx/android_and_ios_apps_on_windows_what_is_microsoft/) and [/r/realtech](/r/realtech/comments/35adbb/android_and_ios_apps_on_windows_what_is_microsoft/).",1,0.418181818182,0.359894164337,0.595454545455,0.288829740587,1.0,0.75,174,0.185567010309,24.8571428571,0.0,0.25
+122,"Google and Apple get a lot of credit here. They constantly improve the accessibility of Android and IOS without leaving us to be preyed upon by third parties which charge more than the device *just* for accessibility software, which is how it works in the Windows world.
+
+
+On the other hand, Windows didn't even provide full-screen magnification until 7, after Linux and Mac already offered it.",2,0.09375,0.146328524345,0.302083333333,0.19460971812,0.291666666667,0.375,67,0.102564102564,22.3333333333,-0.125,0.375
+123,"&gt; I've never read anyone from Microsoft saying you will only have 1 single windows version that will run on every device.
+
+http://gizmodo.com/windows-10-microsoft-skips-a-digit-with-latest-operati-1640805626
+
+&gt; All they said was unified platform, unified app experience, unified experience across devices, etc.
+
+And also...
+
+&gt; Windows 10 will be a single operating system that finally spans all of Microsoft's Windows powered devices, from desktops and laptops all the way through to tablets and phones. ""Windows 10 will be our most comprehensive platform ever,"" says Windows boss Terry Myerson.
+
+...
+
+&gt; but I don't see this as Microsoft's fault.
+
+I'm not blaming Microsoft for marketing. I'm blaming people in technical subreddits for misinterpreting and spreading misinformation.",1,0.0595238095238,0.194212921537,0.504761904762,0.296370168823,0.535714285714,0.607142857143,117,0.056338028169,16.7142857143,-0.0357142857143,0.607142857143
+124,"This is the best tl;dr I could make, [original](http://www.zdnet.com/article/windows-10-editions-explained-in-plain-english/) reduced by 95%. (I'm a bot)
+*****
+&gt; All Windows 10 devices share a single Windows Store, which offers access to Universal Windows Apps capable of running on devices of many different sizes.
+
+&gt; Windows 7 Home Premium and Windows 8.1 systems will receive an upgrade to Windows 10 Home.
+
+&gt; Microsoft has not yet disclosed whether and how it plans to offer Windows 10 for upgraders who prefer physical installation media or who have PCs running Windows Vista, which doesn&amp;#039;t qualify for the free Windows 10 upgrade.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/360hds/windows_10_editions_everything_you_need_to_know/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ ""Version 1.5, ~18475 tl;drs so far."") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr ""PMs and comment replies are read by the bot admin, constructive feedback is welcome."") | *Top* *five* *keywords*: **Windows**^#1 **edition**^#2 **device**^#3 **upgrade**^#4 **Enterprise**^#5
+
+Post found in [/r/technology](/r/technology/comments/35z8ae/windows_10_editions_everything_you_need_to_know/), [/r/windows](/r/windows/comments/35z8d8/windows_10_editions_everything_you_need_to_know/) and [/r/realtech](/r/realtech/comments/35z914/windows_10_editions_everything_you_need_to_know/).",1,0.294047619048,0.386591971942,0.446428571429,0.352720924435,1.0,1.0,162,0.117021276596,23.1428571429,0.160714285714,0.378571428571
+125,"This is the best tl;dr I could make, [original](http://www.bbc.com/news/technology-32658340) reduced by 77%. (I'm a bot)
+*****
+&gt; &amp;quot;Windows will be delivered as a service bringing new innovations and updates in an ongoing manner,&amp;quot; it said, adding that it expected there to be a &amp;quot;Long future&amp;quot; for Windows.
+
+&gt; He said Microsoft had in the past deliberately avoided using the name &amp;quot;Windows 9&amp;quot; and instead chose Windows 10 as a way to signify a break with a past which involved successive stand-alone versions of the operating system.
+
+&gt; Moving to a situation in which Windows is a constantly updated service will break out of this cycle, and let Microsoft tinker more with the software to test new features and see how customers like them, he added.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/360pbf/microsoft_to_stop_producing_windows_versions_bbc/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ ""Version 1.5, ~18512 tl;drs so far."") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr ""PMs and comment replies are read by the bot admin, constructive feedback is welcome."") | *Top* *five* *keywords*: **Windows**^#1 **Microsoft**^#2 **new**^#3 **update**^#4 **version**^#5
+
+Post found in [/r/pcmasterrace](/r/pcmasterrace/comments/3604xk/microsoft_to_stop_producing_windows_versions_bbc/), [/r/programming](/r/programming/comments/35ix9n/microsoft_to_stop_producing_windows_versions_bbc/), [/r/news](/r/news/comments/35ja4i/microsoft_to_stop_producing_windows_versions_bbc/), [/r/microsoft](/r/microsoft/comments/35hf0h/microsoft_to_stop_producing_windows_versions/), [/r/HoloLens](/r/HoloLens/comments/35jxwl/windows_10_is_the_last_windows_so_what_does_that/), [/r/technology](/r/technology/comments/35j56k/microsoft_to_stop_producing_windows_versions/), [/r/linuxmasterrace](/r/linuxmasterrace/comments/35eemt/microsoft_to_stop_producing_windows_versions_bbc/), [/r/techtalktoday](/r/techtalktoday/comments/35f301/windows_x/), [/r/realtech](/r/realtech/comments/35b56u/microsoft_to_stop_producing_new_windows_versions/) and [/r/technology](/r/technology/comments/35b4ny/microsoft_to_stop_producing_new_windows_versions/).",1,0.233884297521,0.446919066763,0.485674931129,0.291365370386,1.25,0.75,213,0.208,30.4285714286,0.212121212121,0.429292929293
+126,"I miss the days when computers came with free commercial games. None of the demos and trial version bull. My very first proper Windows 95 desktop came with classics like Betrayal at Krondor, Megarace, Gabriel Knight, and Fantasy Empires. Not just the CDs either, the full game packages with the manuals and everything.",4,0.1125,0.11336473217,0.380555555556,0.208874297658,0.225,0.475,53,0.0,13.25,0.1625,0.266666666667
+127,"I  think you're overreacting.  Windows Store items are pretty encapsulated. They're not typically softwares that call upon shared resources in the OS.  
+
+",2,0.166666666667,0.127293769304,0.75,0.5,0.25,1.0,24,0.133333333333,8.0,0.25,1.0
+128,"Meh, Windows has always installed features I didn't want by default, including games. Part of a new install is removing them, this isn't so different.",1,0.0681818181818,0.04821182599,0.527272727273,0.372838120989,0.0681818181818,0.527272727273,27,0.0,13.5,0.0,0.0
+129,"So far, when people bought brand-PCs or laptops, you could tell them to go to microsoft.com, get the ISO and make an install USB, wipe the drive and start over. And you'd *know* they have a clean install.
+
+If Microsoft starts bundling stuff themselves and if these bundles change over time, you can't be sure what the ISO contains that you just recommended downloading. Did dad just install an expensive freemium game on his daughters laptop? Who knows. Depends on who payed Microsoft the most this month, I guess. Does Windows come with McAfee this month? Does Spartan have the ASK toolbar this week? Who knows.
+
+When I install Windows, I want a reliable, clean environment once I'm done. This is a step towards abandoning that option. Let's just hope we'll see links to ""enterprise"" versions for download, that come unbundled. But even if those eventually exist, we shouldn't have to hunt them down. 
+
+Microsoft just made all our lives a lot harder.
+
+**PS:** Oh, and in case Microsoft does this ""upgrade for free"" thing in order to achieve rapid uptake, they should know that I wll recommend waiting until Windows comes unbundled. It's not like there's going to be DirextX12 games out there on day 1.",1,0.107777777778,0.262005707458,0.597777777778,0.383386838724,0.95,1.0,215,0.030534351145,13.4375,0.0,0.0
+130,"Windows store apps are very well sandboxed and easily removed. Windows Store Apps don't have access to the registry (or even communication with other apps) or the full filesystem - only their own directory. Something like CCS isn't going to need additional dependencies to be installed.
+
+Of course, sandbox-level attacks are always a possibility and adding new 'features' will always increase your attack surface. Nothing in software's ever a pro/con anyway, and in the case of this, I think the strategic merit of adding CCS to windows outweighs the infinitesimally small change of CCS becoming an attack vector.",2,0.199410774411,0.1184383446,0.64031986532,0.283993404985,0.316666666667,0.73125,100,0.0793650793651,20.0,0.316666666667,0.566666666667
+131,"Windows has always automatically installed games, how is this any different?",1,0.0,0.0,0.6,0.424264068712,0.0,0.6,11,0.142857142857,11.0,0.0,0.6
+132,"You're probably overreacting. Windows has always come with basic games. So what if they got an implementation of candy crush. You could always remove them if you wanted to, but they took pretty much no storage and were out of the way in the start-&gt;games area (which no one now uses, because we're all on steam).",2,0.15,0.1125,0.441666666667,0.285317805263,0.225,0.6,60,0.0645161290323,15.0,0.0,0.125
+133,"Which principle? That you only want OS, drivers, and patches needed? What about an internet browser, a calculator, notepad? The point of my post is that the hollow-point bullet analogy is incorrect - you aren't shooting anything, and until you run your store app it's about as bad as an unnecessary zip archive sitting on your computer with an associated icon.
+
+How do you suggest Microsoft recoups losses from freely handing out Win10, if not through promoting its app store? That's the other point of my post - this is a strategic move by microsoft, not them willy nilly shipping CCS 'because l0l'. If you want corporate grade Microsoft products, then go for corporate grade Microsoft products, but that's not what Windows 10's upgrade is for. In fact, the free Windows 10 upgrade doesn't even apply to Enterprise builds.",3,-0.053125,0.301465912548,0.567708333333,0.425709899639,0.95,1.0,143,0.0243902439024,17.875,0.4,0.8
+134,"As long as it can be removed, I don't care. Windows has always come with a bunch of trash programs and games, this is nothing new.",1,0.0431818181818,0.131778991039,0.427272727273,0.038569460792,0.186363636364,0.0545454545455,27,0.0,13.5,0.136363636364,0.454545454545
+135,"&gt; Sure it would be a problem if Microsoft, as you said, come with what ever software bidded the most that month. But that's not what we're seeing right now is it?
+
+Windows comes with the 3rd party freemium ""Candy Crush"" during launch, implying that at some point after launch, it won't be bundled anymore. i was, admitedly, extrapolating. But Microsoft ""promoting"" some freemium crap to go along with the next big thing, for example SP1 release? Wouldn't be any different from this.
+
+Anyway, the bare minimum, *""The amount and type of bundled software with a 'clean' Windows 10 installation varies over time""* is already confirmed when they say that Candy Crush will be there for the launch (only).",2,0.108531746032,0.248229715068,0.518716931217,0.306862065278,0.766666666667,0.7,123,0.025974025974,17.5714285714,0.0,0.0
+136,"Yes, and sure. King is the Nestl of the mobile apps market. They steal games, claim the copyright to them and sue the original creators. They try to trademark common words such as ""candy"", in such a way that *actual* candy shops can't use the word candy. They steal games and turn them into freemium cancer, not intended to make people enjoy a game but to rip them of as much money as possible. Pure corporate cancer. Sure, it can be deleted after the installation, but out of principle I will *never* have anything installed by King in the first place. Even if it means I have to miss out on whatever else Windows 10 has to offer. I'll stick to Windows 7.
+
+I don't think it's dumb to stand up for your principles, and it's a really easy one too: Either you install Windows 10, or not. I choose the latter. There, no big problem, a very easy way to hold yourself to a principle. Reddit is just an easy outlet to share this principle, this opinion, whether you agree or not. ",0,0.139714285714,0.201494226528,0.516388888889,0.336622541842,0.575,0.888888888889,188,0.01,14.4615384615,0.0,0.0
+137,"I would rather eat disease-infested broken glass than to use Windows Vista.
+
+If all I ever could get was Windows Vista, I would not own a computer. I'd much rather use Windows 98 r2 than go anywhere near Vista.",1,-0.1,0.292973263854,0.5,0.37859388972,0.55,0.7,40,0.047619047619,13.3333333333,0.15,0.3
+138,Seriously? Why is everyone being so over dramatic about this? Windows has come with games forever. Who fucking cares?,3,-0.455555555556,0.25294560973,0.688888888889,0.354338193758,0.6,0.8,19,0.0,4.75,0.0,0.0
+139,"That seems about right for something of this nature.  
+
+* NVIDIA GTX 970 / AMD 290 equivalent or greater
+* Intel i5-4590 equivalent or greater
+* 8GB+ RAM
+* Compatible HDMI 1.3 video output
+* 2x USB 3.0 ports
+* Windows 7 SP1 or newer
+
+I just hope we'll see some user purchasable competition in the near term. ",3,0.346428571429,0.0572419775246,0.483928571429,0.0488240396534,0.0809523809524,0.0690476190476,52,0.0689655172414,26.0,0.366666666667,0.466666666667
+140,Earlier headlines were saying that pirates can turn their pirated Windows installs into genuine Windows by upgrade to Windows 10. http://www.computerworld.com/article/2898803/microsoft-takes-extraordinary-step-will-give-pirates-free-windows-10-upgrade.html,3,0.2,0,0.5,0,0,0,22,0.0555555555556,22.0,0.2,0.5
+141,"This only applies to people who pirated their Windows 7/8.1.
+
+People with legit copies still get the free upgrade.
+
+They said it here
+
+&gt; Pirates just have to pay.
+
+And here
+
+&gt;Microsoft says that it's planning to run some ""very attractive Windows 10 upgrade offers"" that will allow people with pirated copies to move to an official version.",8,0.375,0.280995255001,0.7,0.434932945023,0.55,1.0,60,0.0,15.0,0.55,0.5
+142,"&gt; This only applies to people who pirated their Windows 7/8.1.
+&gt; 
+
+Yeah the headline 'Microsoft backtracks on free Windows 10 update for pirates' gave us a clue",11,0.2,0.282842712475,0.9,0.141421356237,0.4,0.2,28,0.0,14.0,0.4,0.8
+143,"This is the best tl;dr I could make, [original](http://www.theverge.com/2015/5/15/8613591/windows-10-no-free-upgrade-for-pirates) reduced by 74%. (I'm a bot)
+*****
+&gt; People running pirated copies of Windows are going to have to pay - or keep pirating - if they want to update their computers to Windows 10.
+
+&gt; The confusion has revolved around Microsoft&amp;#039;s offer to give free Windows 10 updates to people running Windows 7 and 8.1.
+
+&gt; On Windows 10, Microsoft says that it will display a watermark on the desktop informing people when they&amp;#039;re running a pirated copy, but there don&amp;#039;t appear to be major obstacles to using it.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/364cqp/microsoft_backtracks_on_free_windows_10_update/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ ""Version 1.5, ~18845 tl;drs so far."") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr ""PMs and comment replies are read by the bot admin, constructive feedback is welcome."") | *Top* *five* *keywords*: **pirated**^#1 **Windows**^#2 **Microsoft**^#3 **copy**^#4 **run**^#5
+
+Post found in [/r/Piracy](/r/Piracy/comments/36422u/microsoft_backtracks_on_free_windows_10_update/), [/r/technology](/r/technology/comments/3640k2/microsoft_backtracks_on_free_windows_10_update/) and [/r/Techfeed](/r/Techfeed/comments/363zy0/microsoft_backtracks_on_free_windows_10_update/).",0,0.401785714286,0.394764377434,0.571428571429,0.37496031536,1.0,1.0,168,0.10989010989,24.0,0.4,0.8
+144,What about legitimate Windows XP users?,4,0.0,0,0.0,0,0,0,6,0.0,6.0,0.0,0.0
+145,"&gt; invented in the past 30 years:
+
+&gt;* Relational Databases and RDBMS
+
+1970-1973
+
+* Network File Systems
+
+1960s
+
+* PowerPoint
+
+Ah specific product. First commercial presentation software was in around 76 IIRC.
+
+* The World Wide Web
+
+Yes.
+
+* SLIP/PPP
+
+Yes, a mere wrapper for IP, which we had in 1975ish
+
+* Linux
+
+Yes
+
+* HTML/PHP/JavaScript/Java
+
+Also Firefox!
+
+* GPUs
+
+Coprocessors are older. A GPU is a kind of very specialised coprocessor.
+
+* Web Browsers
+
+How many more things are you going to list that depend on earlier entries? There were ""browsers"" for the internet before the WWW, but of course there were no WWW browsers before there was a WWW. 
+
+* Email
+
+Did exist on ARPAnet in the 1970s.
+
+* The PDF
+
+That's a file format. Similar formats have existed since the late 70s, and at least Ps from about 82ish is essentially the same
+
+* JPEG
+
+Image compression predates jpg. LZ77 was used from about 79ish
+
+* Beowulf Clusters
+
+Yes. Distributed computing is a bit older though.
+
+
+* Windows 2.0 --- Windows 10 (including all subsequent versions, NT etc)
+
+Okay. Predated by a 1960s desktop environment, but hey, who's counting
+
+* Wiki's
+
+Okay.
+
+* IPv6
+
+Meaningless. Internet Protocol is older than 30 years, IPv6 isn't a new development, its incremental change
+
+* Modern Web Servers (Apache, Nginx, Lighttpd)
+
+The www again
+
+* USB
+
+There were bus systems before USB.
+
+* MP3 Audio, FLAC Audio, Flash
+
+Wav, raw, midi, ...
+
+* Broadband
+
+Computer networks are older than 30 years. This is like saying ""6 lane roads"" are some great invention because roads had 5 lanes before.
+
+* Google
+
+The google searching algorithm actual was a genuinely new idea as far as I recall. That's one of about three so far. 
+
+I'm growing a bit tired of this. Skipping the rest.
+
+&gt; There are even some things that didn't make this list because they have roots dating back before 1985, 
+
+Everything is a remix. Especially on your list. Almost nothing is 
+
+* revolutionary
+* and/or actually under 30 years old.
+
+&gt;To say that things like graphene, which was discovered in 2004, is just an incremental improvement and not a real breakthrough is absolute fucking lunacy. Graphene is so entirely revolutionary within the next 10-20 years it will entirely reshape technology as we know it...
+
+Yet it isn't on your list.",3,0.0484563885727,0.278492993297,0.448541768309,0.31334791013,1.425,1.0,374,0.0762331838565,12.8965517241,0.25,0.275
+146,Such features haven't been part of previous Windows versions.,1,-0.0833333333333,0,0.333333333333,0,0,0,10,0.0,10.0,-0.0833333333333,0.333333333333
+147,"&gt;With Windows 7, pirated installations occasionally display messages reminding users of their misdeeds. Additionally, those users only have access to critical Windows updates, not optional ones. We'd expect Microsoft to use similar tactics for Windows 10.
+
+Haven't they heard of Daz?",1,0.0,0.0,0.58125,0.39915274854,0.0,0.9,44,0.1,11.0,0.0,0.9
+148,"The Surface Pro has an x86 processor, but the Surface 2 does not. It does not run all Windows applications, but only new Windows Modern apps. It does include a free version of Microsoft Office if you need that. It will not be updated to Windows 10. 
+I recently replaced my iPad 2 with a new one because the battery was getting weak, and I needed more memory. It still ran everything I wanted it to, but was not as fast when running newer apps. 
+The main advantage of the Pad 2 is that it has many more quality apps available than the Surface 2. ",1,0.212645687646,0.170771465642,0.516724941725,0.304892733958,0.4,0.8,105,0.0196078431373,15.0,0.112121212121,0.584848484848
+149,"Man, I *really* wish Windows Phone had the apps. The interface is great, the available hardware is great. Maybe in a year or two MS will have made some ground and I can switch over.",171,0.55,0.34210676263,0.525,0.323751161874,0.666666666667,0.633333333333,35,0.0,11.6666666667,0.2,0.2
+150,"Why doesn't the Macbook have a multi-touch screen? I mean the thing is practically an iPad on the inside anyway. We've seen touchscreen Windows machines for what, 3-4 years? I mean, sure, a touchscreen laptop isn't practical for everything, but it's a nice bells-and-whistle feature that I was sure Apple would've integrated into their machines by now.
+
+And why in the hell does the thing cost, at minimum, $1,300?!? It's severely underpowered, with really limited storage, and a short battery life. It's a really skinny netbook that's built for browsing the web and charging your phone. I might consider picking one up if it was $400-$500, but over a grand? No thanks.",1,0.162857142857,0.241342623766,0.599563492063,0.39242066106,0.8125,1.0,121,0.09375,13.4444444444,0.0,0.0
+151,If this is true... I'll totally switch back. Loved how fluid Windows Phone was compared to Android.,12,0.21,0.202072594216,0.46,0.142156017577,0.35,0.275,18,0.0,6.0,0.35,0.45
+152,"Even still, the HTC One M8 has two variants. One running Android and one running Windows. Exact same hardware, but the one running Windows has x1.33 the battery life or something like that ",10,0.125,0.0721687836487,0.1875,0.108253175473,0.125,0.1875,33,0.0,11.0,0.125,0.1875
+153,"Just set up an Asus Zenbook Chi UX305 for a customer, and while it doesn't have a USB-C port, it does have 3 USB 3 ports and is Core M.
+
+The trackpad on it was quite lovely compared to most Windows machines I have had the 'pleasure' of using a track pad on.",0,0.5,0.288675134595,0.625,0.360843918244,0.5,0.625,54,0.0,54.0,0.5,0.625
+154,"&gt; Microsofts Windows 10 update policy is a break from the Android worldwhere carriers and manufacturers have a major say as to which devices will get updates and when
+
+&gt; it may take a few months for carriers to roll Windows 10 out to all compatible devices after the new OS debuts this fall
+
+Contradictory? 
+",1,-0.000378787878788,0,0.351515151515,0,0,0,55,0.0689655172414,55.0,-0.000378787878788,0.351515151515
+155,"No friggin' kidding. I've got 2 touch Windows 8.1 devices, an Asus T100 hybrid that's basically my modern netbook replacement, and a Vivotab 8. While I really like the hardware, the app store is unusable. It's filled with half-broken or completely-broken crap from sketchy fly-by-night developers doing god-knows-what with my personal info and data. Browsing through it makes me feel like I'm visiting a plague ward. And I certainly don't trust the app ratings numbers.
+
+Thankfully I've got access to classic desktop software as both devices use full-scale Windows 8 and not that crippled RT crap. This was my reason for going Windows 8.1 over Android or IOS for my portable devices; having access to the 20-year back-catalogue of Windows software (especially all the great open-source stuff) and not having to go through a walled-garden to install software is great. But desktop software on the Vivotab is a little tricky to use sometimes - as it's a purely touch device - without carting along a bluetooth mouse and keyboard.
+
+I'd like to see Microsoft go the OSX route to metro software development: open up the metro APIs to everyone, not require the use of the app store for metro app distribution, and turn the app store into a carefully curated selection of the best metro apps. This metro walled-garden we-own-your-ass shit is not working.",1,0.112219887955,0.244704548867,0.596358543417,0.291074361037,0.85,0.833333333333,230,0.0944881889764,20.9090909091,-0.0583333333333,0.391666666667
+156,"&gt; Microsoft Windows was universally detested until 3.11 (and by many still, until Win95).
+
+This isn't an argument you should be using. As someone deep in the tech support industry from an analysis point of view, we tend to have three categories of user.  
+
+* Those who know a little. They don't follow technology and just want it to make their lives easier.  
+* Those in the middle. Enough to consider themselves IT people, but not enough to be able to develop software or set up a server or network.
+* Those know know a lot. These are the ones who do the serious design and keep all the complex stuff running.
+
+Windows is only liked by the middle group.
+The people who just want it to work and make their lives easier find it clunky and awkward. Those who are serious into getting the most out of their equipment tend to find it limiting.
+
+If you were to use self driving in the same light.
+
+* The people who just want their cars to get them from A-B and don't care about their cars are the ones you want to make this work for.  
+* The people who are ""into cars"" because they wash them twice a week and drive recreationally (the same as the mid group of IT users who love Windows) are going to be the ones to fight this.  
+* The power users are the ones who are building the technology that does this, so they are all for it.
+
+",0,0.0593253968254,0.216078093468,0.45753968254,0.30302666408,0.85,1.0,251,0.0143884892086,15.6875,0.225,0.425
+157,"As others have said in the past, there is one big reason Google is worried about the Windows phone catching on; Bing.
+
+the Google search engine (and the associated information-based advertising) is Google's bread and butter, pretty much all of Google's services are built around it. The only potential competitor to google these days is Bing; The problem is, nobody uses Bing because it isn't great, and it isn't great because nobody uses it (search engines get smarter the more people use them, as they gather more data on search behavior).
+
+As it currently stands Bing isn't making much progress, but there is one big place that is moving bing forward (besides porn): windows OS integration, primarily mobile integration.
+
+People like to scoff at the windows phone, but most anyone who's tried it enjoys the OS. The only real flaw holding Windows phones back is the app market, which is still quite lacking.
+
+*But*, along with other features being implemented for the upcoming Windows 10, Microsoft has also created a new, quite simple code porting software that allows app creators to port app code directly from iOS and Android to the windows phone. With this software, the windows app market will start growing quite a bit; That plus the upcoming flagship W10 phones will generate much more windows phone users, more windows phone users means more people using bing, meaning bing will gradually grow stronger and possibly even more popular, meaning finally Google will have a serious competitor in the search engine market, causing them to lose their golden monopoly and along with it their guarantee of future financial security,- any threat to the Google search engine is a serious threat to Google as a whole. 
+
+Bing might be small fries at the moment, but it would be foolish to think Google doesn't have a close eye on the goings of their only potential search-engine competitor.",1,0.179351204351,0.186716851823,0.543462093462,0.166111039484,0.583333333333,0.5,323,0.0283018867925,35.8888888889,0.0278409090909,0.396672077922
+158,"I personally keep multiple Windows open with multiple tabs for research flows. 
+
+Each window is one Avenue of research,  with usually multiple tabs for each source,  etc... ",6,0.0,0.0,0.16,0.141421356237,0.0,0.2,27,0.0,13.5,0.0,0.2
+159,"Aside from the lack of keyboard, Windows often has issues with display scaling on HHD and UHD screens. My Yoga 2 Pro has a native resolution iof 3200x1800, but I run it at 1080p because many menu controls are blurry or simply too small. Hopefully Windows 10 fixes that. ",1,0.0833333333333,0.0481125224325,0.419047619048,0.24193725566,0.0833333333333,0.419047619048,49,0.0,16.3333333333,0.0,0.0
+160,That is a horrible analogy.  Apple and Windows cater to different markets.  Apple is in a position to charge more just because it is an Apple product.  The direct/franchise sales has little to no impact on the cost of the product.,0,-0.171875,0.623696557497,0.65,0.238047614285,1.5,0.5,41,0.0454545454545,10.25,0.0,0.6
+161,"This is the best tl;dr I could make, [original](https://medium.com/@brunokovacic/did-microsoft-put-a-final-nail-in-the-coffin-of-it-s-mobile-developers-c9ee6f3bb89c) reduced by 79%. (I'm a bot)
+*****
+&gt; Somewhere around late 2013, we started getting a decent number of Windows Phone gigs and that continued throughout the whole 2014.Our experiences? Clients that wanted Windows Phone apps where mainly big companies, like banks, that are expected to have their mobile apps running on almost all platforms.
+
+&gt; Microsoft failed with Windows Phone, and even if Windows 10 succeeds-would you go and develop your Windows 10 app from scratch or just convert it from an existing iOS app? I believe that the answer here is simple.
+
+&gt; Just like Microsoft is waiting for a release of Windows 10 with its flagship phones, potential Windows Phone/10 app customers are waiting for Windows 10 market results to decide whether it makes sense to build an app.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/36rpxd/did_microsoft_put_a_final_nail_in_the_coffin_of/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ ""Version 1.5, ~20738 tl;drs so far."") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr ""PMs and comment replies are read by the bot admin, constructive feedback is welcome."") | *Top* *five* *keywords*: **Windows**^#1 **app**^#2 **Phone**^#3 **Microsoft**^#4 **market**^#5
+
+Post found in [/r/technology](/r/technology/comments/36qzqi/did_microsoft_put_a_final_nail_in_the_coffin_of/) and [/r/realtech](/r/realtech/comments/36r0ii/did_microsoft_put_a_final_nail_in_the_coffin_of/).",2,0.155555555556,0.469511099074,0.543650793651,0.311688547828,1.5,0.75,202,0.0887096774194,22.4444444444,0.0,1.0
+162,"Hundreds of hundreds of experiences with Windows on a machine that got daily personal usage? As in, someone was using them for email and internet browsing? That's your problem.
+
+What I had wasn't a fluke at all. It's how Windows operates when it's used for almost nothing, and no settings or anything change for years, including nothing on the internet. Shit I don't think you realize just how many embedded Windows terminals you directly and indirectly use on a daily basis that run for weeks/months without ever getting restarted. ATMs, the monitors at the airport showing flight schedules, cash registers, etc.",1,0.0666666666667,0.0377964473009,0.333333333333,0.161189772806,0.1,0.425,106,0.0333333333333,15.1428571429,0.0,0.0
+163,"At first I thought it was because I was using the Linux version, but a guy I work with uses the regular Windows version and he too said it was slow.",3,-0.0166666666667,0.282842712475,0.270085470085,0.0670844894972,0.4,0.0948717948718,31,0.0,31.0,-0.0166666666667,0.270085470085
+164,"This is the best tl;dr I could make, [original](http://thenextweb.com/microsoft/2015/05/22/microsoft-is-building-an-app-that-intelligently-shares-your-clipboard-across-devices/) reduced by 71%. (I'm a bot)
+*****
+&gt; Microsoft is quietly testing an app that intelligently synchronizes your clipboard across iOS, Android, Windows Phone and Windows PC. The app, called OneClip, is like Pushbullet in many ways, making it easy to access files across devices with little setup, and may mean Microsoft plans to compete with the company in the future.
+
+&gt; To set up OneClip, it takes a few seconds and requires a PIN code generated on one of your devices.
+
+&gt; OneClip&amp;#039;s Windows app is touch-friendly and works on Windows 8, 8.1 and 10 devices.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/36xh09/microsoft_is_building_a_pushbullet_competitor/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ ""Version 1.5, ~20829 tl;drs so far."") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr ""PMs and comment replies are read by the bot admin, constructive feedback is welcome."") | *Top* *five* *keywords*: **OneClip**^#1 **device**^#2 **Windows**^#3 **app**^#4 **files**^#5
+
+Post found in [/r/Android](/r/Android/comments/36vkzn/microsoft_is_building_a_pushbullet_competitor/), [/r/technology](/r/technology/comments/36vnkb/microsoft_is_building_a_pushbullet_competitor/) and [/r/realtech](/r/realtech/comments/36vopx/microsoft_is_building_a_pushbullet_competitor/).",-1,0.286111111111,0.414942145518,0.556597222222,0.35337051621,1.2,1.0,171,0.139784946237,21.375,0.0,0.0
+165,"Said the guy who uses explorer.exe on daily bases. You should be serving 4,500 life sentences for your atrocious crimes. Do you even realize how powerful Windows Explorer is? You can use it to **VISUALLY** extract data from devices from the network. VISUALLY ! No command line knowledge necessary ! It's made in such a way that even the dumbest criminal can use it. It's the ultimate tool for script kiddies. Let's be honest here Tommy... how often have you used explorer.exe ? You know me. I wouldn't tell anyone. Let's just be frank here. How often ?",10,-0.02,0.285773803325,0.595,0.484916725603,1.3,1.0,99,0.0363636363636,7.61538461538,0.3,1.0
+166,"This is a rage essay (also known as a Howler) which I wrote in response to another redditor's question about Windows 8.1 in another thread. It got so long, that I figured I wanted to cross post it somewhere, and here seems like a good enough place. 
+
+I suspect that Microsoft basically want the new Windows Store to be as profitable and successful as the Xbox Live Arcade, and eventually for them to merge together. To that end, Windows Store starts out pinned to your taskbar, right next to Internet Explorer and Windows Explorer. This isn't a big problem or anything, but I think it's a good first detail for you to be aware of, because it shows you where Microsoft is coming from with the new OS. They want to nickel-and-dime you hard.
+
+To get at the problems of Windows 8... Let me show you a screenshot. Imagine you want to boot Skype in Win7, just hit Start then type S - K - Y - Return, right? Nothing could be easier. Here's what you see when you hit Start - S - K - Y in Windows 8:
+
+http://i.imgur.com/a2D3DI4.png
+
+In Win7, 25% of the screen would change, because the Start menu would pop up, and most of what you would see would be the icon for Skype. Here in Win8, the entire screen has changed, and only 10% of it or so actually contains what I'm obviously looking for.
+
+That's not the real problem, of course. This screen is gaudy and full of unnecessary information (John Nash died today! Dow down, FTSE up!) and ads (play Tiny Troopers free!), but none of those is the real problem.
+
+Have you noticed that there are two Skypes yet? 
+
+""Skype for Desktop"" refers to regular Skype, which I had to install through a third party (Ninite, the best web site ever) even though Microsoft actually owns it. ""Skype for Desktop"" behaves how you would expect. ""Skype,"" on the other hand, is a pre-installed, unremoveable, Windows 8.1 app...
+
+http://imgur.com/FM5IGYO
+
+Here's where this takes you. The whole screen disappears, including the taskbar. If you don't know how to use Alt + Tab, you pretty much will not be able to get back to what you were doing.
+
+I don't even have any idea what's caused this error, seeing as regular Skype signs in with no issues whatsoever. Clicking the ""Try again"" button does nothing; an error chime sounds -- regardless of where I click on the Skype app page.
+
+The Skype app also does not seem to accept my Skype ID. I rebooted the app and now this is what it wants:
+
+http://i.imgur.com/dSdnQrK.png
+
+It's upset that when I installed Windows, I didn't tell it my Microsoft account ID. I even have a Microsoft account, and no trouble remembering the ID or the password, incredibly enough, because I use a Windows phone. I just chose not to because I found it off-putting that Windows 8.1 asked me to give up this information before it even let me use the computer, so I withheld it -- now I guess I'm not allowed to use the Skype app until I play ball.
+
+[More of the same...](http://i.imgur.com/uv7hXse.png)
+
+So, the core of my problem with Windows 8.1 is that a lot of Windows functionality and programs that I like to use have been migrated to these incredibly-badly-designed-you-wouldn't-believe-it-if-I-told-you apps. Some examples:
+
+* ""Camera"" app
+
+* Almost all Windows settings, except truly important ones such as Add or Remove Programs
+
+* Netflix, of all damn things
+
+* OneNote, which I haven't tried in app form but which I know loads of people use
+
+Nobody asked for these changes; it's been a senseless cash grab from start to finish. Fortunately, Ubuntu has never shined brighter as an alternative; I've been running Ubuntu ever since I first started having these experiences, and it has really been beautiful; most everything just works. 
+
+But I want to play Heroes of the Storm, so... Depending on whether Windows 10 is the same kind of shitshow, I will need to either use 10, downgrade to 7 (which I never had problems with from start to finish), or just ignore my desire to play HotS and play Dota 2 instead. God, I wish Blizzard would build Ubuntu releases like a proper dev team.
+
+PS This is Windows 8.1; don't let people tell you that the upgrade to 8.1 fixes all or even most problems.",0,0.201285340174,0.19468418351,0.433918293641,0.245229042656,0.791666666667,0.75,746,0.0411622276029,21.3142857143,0.340909090909,0.634848484848
+167,"It's worth mentioning that Blackberry still has a substantial niche market,  because they still offer THE best overall security and administrative control over their devices.   They're the only serious choice for organizations that truly need government-grade security systems. 
+
+So they may have failed in the overall consumer market,  but they could still exist for years to come as niche providers for a small but VERY lucrative market who will pay pretty much *anything* to get top-grade security.   I suspect (if this rumor is true)  that's why Microsoft would be interested in them.   Since,  you know,  Windows ain't exactly known for its security. 
+
+Edit: Come to think it of, the other reason MS might do this is if they specifically wanted to integrate Blackberry's security expertise *into* Windows, rather than keeping BB as a separate brand\product.",5,0.106111111111,0.248201866767,0.402777777778,0.249313873275,0.6,0.7,140,0.0659340659341,23.3333333333,0.25,0.25
+168,"Worse than that, anyone who thinks they own the Windows OS that they paid for is a fool these days. Juuuuuuust try to stop Microsoft from changing your settings or downloading shit and see how long that lasts. Windows is Microsoft's little toy and the company merely lets you play with it. ",-2,-0.122916666667,0.221882335559,0.633333333333,0.152752523165,0.44375,0.3,53,0.030303030303,17.6666666667,-0.34375,0.5
+169,"This is the best tl;dr I could make, [original](http://arstechnica.com/information-technology/2015/05/android-and-ios-apps-on-windows-what-is-microsoft-doing-and-will-it-work/) reduced by 95%. (I'm a bot)
+*****
+&gt; Famously, IBM advertised OS/2 as a &amp;quot;Better Windows than Windows&amp;quot; in the 1990s, boasting that its platform would run all your existing Windows applications with greater stability and performance.
+
+&gt; The Win32 API that almost all Windows software use is obviously the biggest and best known of these APIs, and in modern versions of Windows is in fact the only API.
+
+&gt; The POSIX subsystem was an optional Windows component as recently as Windows 7, though it isn&amp;#039;t supported in Windows 8.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/377ncx/android_and_ios_apps_on_windows_what_is_microsoft/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ ""Version 1.5, ~395 tl;drs so far."") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr ""PMs and comment replies are read by the bot admin, constructive feedback is welcome."") | *Top* *five* *keywords*: **Windows**^#1 **Android**^#2 **API**^#3 **App**^#4 **support**^#5
+
+Post found in [/r/microsoft](/r/microsoft/comments/35x2p1/android_and_ios_apps_on_windows_what_is_microsoft/), [/r/windowsphone](/r/windowsphone/comments/35b048/peter_bright_wrote_a_really_informative_article/), [/r/Android](/r/Android/comments/35acqp/android_and_ios_apps_on_windows_what_is_microsoft/), [/r/programming](/r/programming/comments/35atcm/android_and_ios_apps_on_windows_what_is_microsoft/), [/r/technology](/r/technology/comments/35cttx/android_and_ios_apps_on_windows_what_is_microsoft/) and [/r/realtech](/r/realtech/comments/35adbb/android_and_ios_apps_on_windows_what_is_microsoft/).",1,0.418181818182,0.359894164337,0.595454545455,0.288829740587,1.0,0.75,174,0.1875,24.8571428571,0.0,0.25
+170,"This is the best tl;dr I could make, [original](http://blogs.windows.com/bloggingwindows/2015/05/13/introducing-windows-10-editions/) reduced by 90%. (I'm a bot)
+*****
+&gt; No matter which Windows 10 device our customers use, the experience will feel comfortable, and there will be a single, universal Windows Store where they can find, try and buy Universal Windows apps.
+
+&gt; As we announced earlier this year, for the first time ever, we are offering the full versions of Windows 10 Home, Windows 10 Mobile and Windows 10 Pro as a free and easy upgrade for qualifying Windows 7, Windows 8.1 and Windows Phone 8.1 devices that upgrade in the first year after launch.
+
+&gt; Customers will continue to help us create Windows 10 even after this summer&amp;#039;s initial release, thanks to the 3.9 million and growing Windows Insiders who are helping us build and test Windows 10.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/377nee/introducing_windows_10_editions/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ ""Version 1.5, ~400 tl;drs so far."") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr ""PMs and comment replies are read by the bot admin, constructive feedback is welcome."") | *Top* *five* *keywords*: **Windows**^#1 **device**^#2 **customer**^#3 **Mobile**^#4 **Enterprise**^#5
+
+Post found in [/r/windowsphone](/r/windowsphone/comments/35ue67/introducing_windows_10_editions/), [/r/microsoft](/r/microsoft/comments/35ueiq/introducing_windows_10_editions/), [/r/Windows10](/r/Windows10/comments/35uf0g/introducing_windows_10_editions/), [/r/tablets](/r/tablets/comments/35wpjm/new_windows_10_editions_tablets_less_than_8/), [/r/WindowsMobile](/r/WindowsMobile/comments/35ue49/introducing_windows_10_editions/), [/r/techtalktoday](/r/techtalktoday/comments/35vvwa/introducing_windows_10_editionswhat_the/), [/r/sysadmin](/r/sysadmin/comments/35xuzf/til_windows_10_will_have_a_ton_of_skus/), [/r/Windows10M](/r/Windows10M/comments/35uloj/introducing_windows_10_editions/), [/r/windows](/r/windows/comments/35udyi/introducing_windows_10_editions/), [/r/realtech](/r/realtech/comments/35ui1q/introducing_windows_10_editions/) and [/r/technology](/r/technology/comments/35uh84/introducing_windows_10_editions/).",1,0.288244047619,0.370751164114,0.454017857143,0.334748877249,0.917857142857,0.9,219,0.189393939394,31.2857142857,0.0910714285714,0.176785714286
+171,Linux is your choice? Running Windows is by no means a requirement. ,1,0.0,0.0,0.0,0.0,0.0,0.0,12,0.142857142857,6.0,0.0,0.0
+172,"That's an article from 2008. Does it imply voluntary adherence to regulations by the FCC and possibly other groups, yes it does.  It doesn't mean all their products do that. 
+The article also sites that windows media center uses the block, not that the OS itself.  
+The real question is why would you use Windows Media Center?",1,-0.0875,0.139866007307,0.3125,0.270185121722,0.3625,0.6875,59,0.0285714285714,11.8,0.05,0.2
+173,"There has to be a lot of testing done on the car, and they need to make sure it meets all safety and government standards in a lot of countries.
+Also - a car is very complex, and with a lot of systems that need to work well together. A modern car has a lot of software running, and you can't exactly restart Windows going 80 MPH",1,0.14,0.455695439228,0.489722222222,0.309020921688,0.89,0.613888888889,67,0.0,22.3333333333,0.225,0.275
+174,"This is the best tl;dr I could make, [original](http://www.theguardian.com/technology/2015/may/22/malware-viruses-companies-preinstall) reduced by 86%. (I'm a bot)
+*****
+&gt; Proprietary developers in the 1980s still had some ethical standards: they sincerely tried to make programs serve their users, even while denying users control over how they would be served.
+
+&gt; Windows snoops on users, shackles users and, on mobiles, censors apps; it also has a universal back door that allows Microsoft to remotely impose software changes.
+
+&gt; Amazon&amp;#039;s Kindle e-reader reports what page of what book is being read, plus all notes and underlining the user enters; it shackles the user against sharing or even freely giving away or lending the book, and has an Orwellian back door for erasing books.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/37bfq8/malware_is_not_only_about_viruses_companies/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ ""Version 1.5, ~1199 tl;drs so far."") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr ""PMs and comment replies are read by the bot admin, constructive feedback is welcome."") | *Top* *five* *keywords*: **user**^#1 **malware**^#2 **software**^#3 **proprietary**^#4 **shackle**^#5
+
+Post found in [/r/technology](/r/technology/comments/37bdo8/malware_is_not_only_about_viruses_companies/), [/r/realtech](/r/realtech/comments/37beck/malware_is_not_only_about_viruses_companies/), [/r/linux](/r/linux/comments/36vnaa/malware_is_not_only_about_viruses_companies/), [/r/security](/r/security/comments/36ycp5/malware_is_not_only_about_viruses_companies/), [/r/privacy](/r/privacy/comments/36ycos/malware_is_not_only_about_viruses_companies/) and [/r/linux](/r/linux/comments/36z3pw/so_richard_stallman_invented_linux_in_this/).",-4,0.309090909091,0.376017139089,0.436363636364,0.32750863311,1.03333333333,0.933333333333,190,0.129032258065,27.1428571429,-0.0333333333333,0.0666666666667
+175,It's not bad. He removed it from starting up when Windows starts. ,3,0.175,0.247487373415,0.383333333333,0.400693842672,0.35,0.566666666667,13,0.0,6.5,0.0,0.1
+176,"Typically when doing a cold boot, you want absolutely nothing auto starting in the background other than essential Windows tasks. Steam falls into that bucket for myself, but for others people find it useful. If you feel that you are taking forever to start loading into windows after a cold boot, then you probably should try to see if that's causing an issue by disabling it. 
+
+edit: do doing",2,-0.123958333333,0.374243707527,0.521875,0.481466401562,0.9,1.0,70,0.0,17.5,-0.115277777778,0.529166666667
+177,"&gt; which is often called Linux
+
+He doesn't call it Linux, but there are people out there that don't know the difference. Much like how a lot of people of my mother's generation call the chassis containing their motherboard, RAM and processor, the CPU. Technically it's incorrect, but it IS the Centralized Processing part of a computer if you see it as a closed box and the only other parts are the monitor and keyboard. Most Windows users wouldn't understand the difference between a Kernel and a full OS, because they haven't experimented with different ones.",9,0.103125,0.161081549611,0.428125,0.238396061821,0.339583333333,0.55,102,0.0769230769231,25.5,0.283333333333,0.55
+178,"You could just reinstall Windows using the product key on the sticker. Just make sure you get the right ""version"". If it is a Home key you need a Home disc. If it is a Pro key you need a Pro disc, etc.",1,0.157142857143,0.196428571429,0.884920634921,0.143849206349,0.392857142857,0.287698412698,43,0.0,10.75,0.0,1.0
+179,"&gt; But the point is really having control over what's there, and only letting the ones with a purpose open/run automatically.
+
+...Which Windows lets you do really well. That doesn't make Steam and Dropbox ""autostart crap.""",2,-0.1,0.550757054729,0.55,0.30550504633,1.0,0.6,38,0.0384615384615,12.6666666667,0.2,0.2
+180,"Vanilla is a term used to describe software which has not been modified. https://www.wikiwand.com/en/Vanilla_software
+
+Most companies that sell computers modify the Windows operating system to include spyware, trial software, and other things which bog your system down. They do this because those companies pay them to include the software. While this allows for a drop in the price of store bought machines, it also bogs them down and causes them to run slowly.",8,-0.0472222222222,0.13071060533,0.370555555556,0.212172950941,0.300925925926,0.387962962963,74,0.0192307692308,18.5,0.0731481481481,0.387962962963
+181,It astonishes me how bloated even simple things have become. I recently had to help my brother-in-law sort out the Bluetooth on his laptop and the new driver installation package from Atheros was 252MB! I remember when the entire Windows operating system was less than a tenth that size!,12,-0.00757575757576,0.094854666675,0.350670995671,0.00567287828262,0.189393939394,0.0113095238095,49,0.0666666666667,16.3333333333,-0.104166666667,0.345833333333
+182,"https://ninite.com y'all.
+
+The only way to setup a new Windows install.",2,0.0681818181818,0.04821182599,0.727272727273,0.514259477227,0.0681818181818,0.727272727273,12,0.0,6.0,0.0681818181818,0.727272727273
+183,"Yeah, this is the only way IMO. Also Windows is pretty good about automatically finding drivers these days, so I rarely have to do any hunting on name brand machines.
+
+Updates seem to take forever, but it's getting better as people get 100Mb+ internet.
+
+After that, a quick trip to https://ninite.com for all the usual suspects and they have a nimble, secure, ready to go machine.",1,0.27037037037,0.228860274978,0.65,0.260882915948,0.5,0.5375,68,0.0238095238095,17.0,0.416666666667,0.833333333333
+184,"Windows Phone is ceasing to be a thing when Windows 10 comes out, because Windows 10 is the same platform. Windows Phone isn't *dead*, it's fully merged with the desktop OS, which is the same OS that exists on the Surface devices and other tablet form-factor Windows devices. It's the same basic Windows as exists on special devices, and that will exist available for devices like the Arduino.
+
+Windows Phone users are not upset, since their phones are being updated to Windows 10. That will make it easier to create apps for all devices, including Android and iOS, which work well universally.
+
+If you're genuinely interested on the state of Windows Phone and the future of the hardware devices, you should watch their most recent keynote from build.",8,0.0909340659341,0.118920418155,0.278571428571,0.157954226368,0.297619047619,0.34375,132,0.0246913580247,22.0,0.189285714286,0.305357142857
+185,"I meant Microsoft Windows... Actual install media from Microsoft, not ""recovery"" disks from your manufacturer.
+
+Also,
+
+&gt;And what do you use for the PC you own?
+
+I use Windows 8.1 for games and some misc programming stuff, and Arch Linux for everything else. Dual booting is useful lol",1,0.425,0.332603367391,0.45,0.44976845895,0.6,1.0,49,0.0714285714286,12.25,0.0,0.1
+186,Ubuntu the OS that spies on ya hu? ya i wouldn't use Ubuntu as an example. I am unaware of free Windows Download I have a full copy of Windows 7 Ultimate 64 bit no need for a download. And honestly whats the point of dual boot when there is a copies of all the major programs made by FOSS/Linux community for windows. Windows programs however do not work on Linux another reason not to use it. Linux Great for drone PCs for rendering servers so on.,1,0.316071428571,0.314653000012,0.714285714286,0.395159514205,0.8,0.75,88,0.0,14.6666666667,0.1875,0.7125
+187,"&gt;Ubuntu the OS that spies on ya hu?
+
+unlike windows which would never spy on you or have security holes built in for the NSA to use. but if you don't like Ubuntu there are plenty of others. like Debian 
+
+&gt;I am unaware of free Windows Download
+
+well now you are here is a [link](http://www.microsoft.com/en-us/software-recovery)
+
+&gt;And honestly whats the point of dual boot when there is a copies of all the major programs made by FOSS/Linux community for windows.
+
+linux is free, safer, faster then windows, and there are lots of programs that are not also for windows, oh and it's open source. which means it can be used for anything and unlike windows you can trust it. 
+
+&gt;Windows programs however do not work on Linux
+
+yes they do. that's why we have wine. it runs windows programs on Linux",1,0.24375,0.103963343233,0.666666666667,0.292201889871,0.265625,0.675,149,0.0131578947368,16.5555555556,0.265625,0.675
+188,"I always tell people to bring me their laptop so I can clean install Windows 7 on it for them. It's absolutely mind-blowing to see the speed difference between a laptop they just walked out of Best Buy with, and that same laptop after a re-imaging. ",1,0.391666666667,0.0235702260396,0.50625,0.182669251807,0.0333333333333,0.258333333333,47,0.0384615384615,23.5,0.366666666667,0.7
+189,"Haha, I am in Sweden but I am intending to go to NYC at some point in the not-too-far future, if you're in town I could run through the worst Windows hurdles and bottlenecks over a calzone in Central Park. ;",1,-0.2,0.141421356237,0.41875,0.296100964622,0.2,0.41875,41,0.111111111111,20.5,-0.2,0.41875
+190,"Yes, I never allow that kind of people to sit with me and stare over my shoulder as I work, not if they intend to second-guess me every single step of the way. If they want my help they can get it, and I will need to ask questions at certain points, but damn is it frustrating with the people whose computers are their prestige and pride, and daring to question their extremely set views is just met with resistance, when in fact they came to *me*.
+
+""No don't change that, no I want that thing just like it is"". Look! You have a 60Gb babysize harddrive! Your Windows takes up 40 Gb from that! First of all, you have to move all your 20-megapixel vacation photos to an external drive, just for starters. But if you just let me disable Hibernation I can give you back 5Gb just like that *snap*, you simply have to shut down the computer every day, instead of putting it to sleep. You can't have the cookie and eat it. And delete the movies you've already seen, or move them off the harddrive!",1,0.0154272073413,0.101881429087,0.466507936508,0.289387143728,0.367857142857,0.82380952381,192,0.039603960396,19.2,0.0,0.0
+191,"Richard Stallman thinks Windows is malware, this is just another one of his tinfoil hat rants.",2,0.0,0.0,0.0,0.0,0.0,0.0,16,0.0,16.0,0.0,0.0
+192,"Good luck trying to re-install Windows 7 on a PC that is licensed for Windows 8 but came with pre-, SLP-activated Windows 7.",1,0.7,0.494974746831,0.6,0.424264068712,0.7,0.6,23,0.0833333333333,23.0,0.7,0.6
+193,"&gt;  It's the same basic Windows as exists on special devices, and that will exist available for devices like the Arduino
+
+I don't think arduino's run an operating system, they're just a microcontroller. You basicly compile the C code then upload it to the board via serial. The Raspberry Pi will be able to run Windows 10 though.",2,0.209523809524,0.252445521839,0.328571428571,0.253212774527,0.5,0.5,62,0.03125,20.6666666667,0.189285714286,0.305357142857
+194,"Windows does absolutely no kind of ""censorship"".  You can compile and install whatever the hell you want, and the only ""restrictions"" are in what Microsoft chooses to host in their app store.
+
+Also, Windows 10 is going to be pretty awesome for privacy and security.  There's fine-grained permissions that can be set per app for things like webcam, microphone, location sensors, etc.",2,0.2375,0.389109560407,0.975,0.485626742811,0.925,1.0,63,0.0857142857143,15.75,-0.3,0.9
+195,"3.1 was less than that. DOS plus about 3 discs.
+
+The original Windows 95 (before the TCP/IP stack was moved from an extras sub folder to be part of the default install) was around 10 discs.",2,0.104166666667,0.27743033827,0.408333333333,0.415108196516,0.541666666667,0.75,36,0.0,12.0,0.375,0.75
+196,"&gt;Microsoft has said they are moving to Apple's release model.
+
+Their business clientele won't go for that. It's why the UI is allowed to remain the same in Windows 10 and the underneath is supposed to change.
+
+Something like that I've read somewhere.
+
+
+&gt; Ubuntu releases twice each year, most other Linux systems also release often.
+
+Those who like Linux are used to that.
+
+OS X is supposed to be for newbies and it's harder on newbies than Windows.
+
+Yesterday I installed MSN Premium software on a new Windows 8.1 machine for a old friend, goes to show how people can not handle a lot of change.
+
+Microsoft is a hell of a lot better at backwards compatibility than Apple or Linux.",-8,0.144480519481,0.178112086309,0.307792207792,0.209024850951,0.6,0.5,128,0.0151515151515,14.2222222222,0.118181818182,0.327272727273
+197,"I have several old laptops running Ubuntu MATE and I love it.
+
+I have one laptop running Windows so I can do the things that are still Windows-only, like root my phone and kindle, and play some old games like GTA:SA.
+
+I still like Windows - I grew up as a DOS/Windows geek - started in 1987...... but I have to admit, I really love Linux, too.
+
+But for some basic Windows apps - ninite.com is by far the way to go. Re-run the installer weekly and it'll install new versions, even. It's almost like a tiny Windows repo. :)",1,0.193636363636,0.206350858731,0.467954545455,0.261220120269,0.5,0.8,99,0.0384615384615,14.1428571429,0.025,0.53125
+198,Could you please elaborate on why you think Windows is spyware ,1,0.5,0,1.0,0,0,0,11,0.0,11.0,0.5,1.0
+199,"How fucking stupid is the writer of this article? Do one minute of research, this is what it says on Microsoft's website.  
+
+&gt;And even better: once a qualified Windows device is upgraded to Windows 10, we will continue to keep it up to date for the supported lifetime of the device, keeping it more secure, and introducing new features and functionality over time  for no additional charge.  ",1,0.147272727273,0.604096723414,0.610909090909,0.50006197963,1.18409090909,1.0,69,0.0540540540541,23.0,0.384090909091,0.513636363636
+200,"This is the best tl;dr I could make, [original](http://www.pcworld.com/article/2924866/new-windows-10-preview-build-drops-with-a-spit-shine-edge-improvements-and-an-aversion-to-radeon-gp.html) reduced by 91%. (I'm a bot)
+*****
+&gt; Enough negativity! What&amp;#039;s new in the latest Windows 10 preview build? There were some improvements to Edge and the way Windows 10 handles default apps, but build 10122 mostly consists of cosmetic changes, as it turns out.
+
+&gt; The tiles on the Start screen are larger now for a better touch experience, more closely miming Windows 8&amp;#039;s Start screen than previous Windows 10 preview builds.
+
+&gt; The new Windows 10 preview build clamps down and unifies the way that traditional desktop software and Windows apps can prompt you to make them the default program for a given file type.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/37i2m8/new_windows_10_preview_build_drops_with_edge/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ ""Version 1.5, ~1603 tl;drs so far."") | [Theory](http://np.reddit.com/r/autotldr/comments/31bfht/theory_autotldr_concept/) | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr ""PMs and comment replies are read by the bot admin, constructive feedback is welcome."") | *Top* *five* *keywords*: **Windows**^#1 **build**^#2 **Start**^#3 **new**^#4 **preview**^#5
+
+Post found in [/r/technology](/r/technology/comments/37hx11/new_windows_10_preview_build_drops_with_edge/), [/r/realtech](/r/realtech/comments/37hxzc/new_windows_10_preview_build_drops_with_edge/), [/r/microsoft](/r/microsoft/comments/37hx1d/new_windows_10_preview_build_drops_with_edge/) and [/r/Windows10](/r/Windows10/comments/370zq0/new_windows_10_preview_build_drops_with_edge/).",0,0.290033670034,0.352667302301,0.547643097643,0.228780107033,1.0063973064,0.7,186,0.140186915888,20.6666666667,0.233978675645,0.471492704826
+201,"&gt; I have never been forced to update my Mac. My windows has auto updated many many times.
+
+The updates for the Mac are security related, as the same it is on Windows. Windows has auto-updates enabled by default, it's for security reasons, but it can be turned off.
+
+What I'm talking about is UPGRADES, OS X gets annual upgrades which replaces the entire operating system with a new different one, UI and more. This is EXTREMELY disruptive to businesses and newbies who need stability.
+
+Windows only requires updates for 10 years, the upgrades (w/UI changes) are optional.
+
+On OS X the upgrades are mandatory or else one is denied security updates in 3 years.
+
+Windows upgrades tend to not to bloat older hardware down, OS X upgrades do.
+
+It's because Apple is a hardware company and they do anything to force a faster turnover cycle.
+
+",1,0.0940365190365,0.204184758042,0.502059052059,0.379254418603,0.8,1.0,149,0.0126582278481,14.9,0.0,0.0
+202,"I want my OS, programs and hardware to last quite a bit longer than 3 years thank you.
+
+Also I want choice, Windows gives choice. Choice of software AND hardware.
+
+I also want security, Windows is more secure than OS X because it's out and then HARDENED over the next 10 years.
+
+A new OS X version comes out annually and Apple has to release a huge amount of fixes (like 80 at a time) to fix all the errors because they rushed it out the door like it's a new coat of paint to sell hardware.
+
+The Mac has failed in the marketplace, Steve Jobs said so.
+
+The iPhone is failing in the marketplace also, because Apple doesn't get it.
+
+Why stick with a two time loser like Apple?
+
+Money doesn't matter if a company isn't providing the solutions we need.
+
+",1,0.134090909091,0.220856108522,0.40946969697,0.221952890045,0.8,0.60303030303,147,0.0263157894737,16.3333333333,0.15,0.183333333333
+203,"&gt;I want my OS, programs and hardware to last quite a bit longer than 3 years thank you.
+
+I want my OS and apps to move with the times, however iOS and OSX have remained backwards compatible throughout - so I can still run all my apps, not one of them says ""Sorry, your OS version is too new""
+
+&gt;Also I want choice, Windows gives choice. Choice of software AND hardware.
+
+I want choice too, but when all other choices are utter shit I just want something that works. I've been burned too many times by incompatibility
+
+
+&gt;I also want security, Windows is more secure than OS X because it's out and then HARDENED over the next 10 years.
+
+iOS and OSX are, like Android, built on the superior technology that is a unix-based OS. Windows is a security joke, it always has been. Obviously real hackers run linux and OSX is as close to that as regular users need
+
+&gt;A new OS X version comes out annually and Apple has to release a huge amount of fixes (like 80 at a time) to fix all the errors because they rushed it out the door like it's a new coat of paint to sell hardware.
+
+It's all free and you can just wait until you think its safe to upgrade
+
+&gt;The Mac has failed in the marketplace, Steve Jobs said so.
+
+Yeah..
+
+&gt;The iPhone is failing in the marketplace also, because Apple doesn't get it.
+
+Right..
+
+&gt;Why stick with a two time loser like Apple?
+
+Biggest company in the entire world by market cap. Sold more smart-watches in a week than existed in the entire market previously. Defined the modern smart phone and has managed to ship benchmark products in a dozen categories, yearly.
+
+&gt;Money doesn't matter if a company isn't providing the solutions we need.
+
+Ok then, stick with Microsoft",1,0.156200897868,0.230601822756,0.513980155647,0.296416538776,0.881818181818,0.9,325,0.0235294117647,20.3125,0.0560606060606,0.375757575758
+204,Windows is a junk app..,-5,0.0,0,0.0,0,0,0,5,0.0,5.0,0.0,0.0
+205,"1) Cruft, takes time to process and display a lot of installed applications with their icons, registry keys etc.
+
+2) Lower free disk space can reduce performance
+
+3) OS updates assuming faster hardware. If users feel their device or PC is slow they will buy a new one resulting in more revenue for both the hardware and OS maker. Older iDevices suffer from this a lot. Windows seems to getting faster since Vista though, no wonder PC sales are down.
+
+4) As you said, new apps assuming faster CPU, hard drives and more RAM
+
+I really doubt hardware fatigues over time, otherwise benchmarks would show it.",3,0.129217171717,0.184727039716,0.447297979798,0.260108188635,0.555555555556,0.8,106,0.0298507462687,17.6666666667,-0.155555555556,0.288888888889
+206,"The thing I'm scared of is # of devices.
+
+* Android phones and tablets
+* Ubuntu (media server)
+* Windows 8 (GF Laptop)
+* OSx (Dev laptop)
+* Windows 7 (Gaming computer)
+* Roku
+* Chromecast
+
+Keeping track of all of that... admin nightmare, DNS spoofing is so easy.
+
+The down speed I'm used to is literally 3 times the best reported speed on there.",2,0.425925925926,0.247040091047,0.474074074074,0.422599733766,0.433333333333,0.833333333333,59,0.0,19.6666666667,0.433333333333,0.833333333333
+207,"&gt; 7"" win tabs
+
+Windows is free on any device with a screen size below.... 9 inches, I think?
+",2,0.6,0.424264068712,0.6,0.424264068712,0.6,0.6,19,0.0,19.0,0.6,0.6
+208,"No.. I'm not disagreeing with any of that,.. I just don't think success of 1 comes at the cost of the other. That would be like someone saying ""Every time someone buys an AndroidWear watch -- that's 1 less Apple Watch sold."" ..... Well, NO,.. it's not. Or like people saying,.. ""Windows is losing market share overtime someone installs Linux."" 
+
+It's just silly. There's more than enough room in the market for multiple different platforms to all be successful. Different companies take different strategies and different approaches -- and their customers feel loyalty to them for different reasons and place value on different aspects of their services. 
+
+It's completely possible for different companies to all be simultaneously successful. ",1,0.0887254901961,0.21338730871,0.553921568627,0.364162757416,0.75,0.875,122,0.04,12.2,0.0,0.0
+209,"Macs save us money in the long run. Employees struggled with Window's 8. We installed classic shell on every computer to combat this. We don't have a full time IT person, we are too small for that so we rely on a part time IT person for help but that costs us 80/hr. 
+
+It comes down to productivity. Our employees are more productive on Macs because they are far easy to use than Win 8 for your avg user. Most of them already own ipads and iphones at home. They are able to learn Yosemite faster than Win 8. 
+
+Example: We use high end brother printers. On a Mac it takes about 15 seconds to set it up. On windows 8 it takes 15 minutes and you need to reboot. Every few months the window's machines and printers stop talking to each other. Best way to fix it it to reinstall the software again. Never once has a Mac stopped talking to one of our printers. 
+
+Preview on Yosemite is the real workhorse that rarely gets the attention it deserves. It's the swiss army knife of apps. No need for adobe. We can sign documents, annotate them, merge, delete pages, create pdf etc. There is nothing close for windows. Mac users in our company live in Preview...
+
+Text messages right in Imessage is amazing for our company. Saves so much time and allows an employee to merge their phone with their computer. 
+
+The app store has everything you need to solve your problem. Safe, cheap, easy to use etc. Examples: Better Snap tool, copy clip and text wash. These are amazing apps that are dirt cheap but increase productively. 1password is simply the most amazing app. (you can use it on windows as well) We can't live without it. I have 47 logins stored in my vault just for work. It seamlessly works with all idevices. Windows app store is a mess!
+
+Our IT guy has many clients, from small to large. He tells me all the companies started by younger people are 100% Macs. He tells me companies such as the one I'm at slowly are adding Macs are people request them. One of our Mac employees left the company, people were fighting over who got his Mac mini. 
+
+I'm sure there is a rebuttal to all of this but if Macs were 20% cheaper we would have bought way more of them. 
+
+Forgot to mention our IT guy who is extremely smart and semi famous in the tech world uses Mac's as well but he runs Linux on all of them. I have no idea why. ",-6,0.275674799235,0.266115268541,0.513921670117,0.287862146807,1.21875,0.821428571429,446,0.00858369098712,11.7368421053,-0.21875,0.175
+210,"Hopefully. I have a couple Windows 8 keys, and had to reinstall some computers recently. It took way too much time getting 8 all installed and updated before I could get to 8.1.",2,0.1,0.115470053838,0.225,0.132287565553,0.2,0.25,33,0.0,11.0,0.0,0.25
+211,"As others have pointed out, that $40 price was a limited time special and only applied to upgrades from Windows 7. The standalone Windows 8 was $119.
+
+With Windows 10 that upgrade is now completely free, and standalone is $110.",3,0.171428571429,0.208945811707,0.628571428571,0.41206300291,0.4,0.8,40,0.0,13.3333333333,0.0,0.0
+212,"The more Macs we have, the less IT support we need. With Macs we don't need minor config changes and if we do we can hit a button on the apple configurator. The Mac users also typically figure things out on their own vs Windows 8 requiring google to fix problems. 
+
+Case in point, just look at how tiny the Mac sys prefs are compared to the control panel in Win8. Why the hell does win8 have a control panel with ~50 icons? Mac has ~24..
+
+If google stripped win8 help results from search, Microsoft would be bankrupt. ",-9,0.119444444444,0.10111808802,0.461111111111,0.289704282724,0.266666666667,0.75,99,0.0188679245283,14.1428571429,0.216666666667,0.75
+213,"I used Hola for a while but it kept installing a self-named folder in my Downloads folder. Each time i deleted it (only 2-4 times before i realised), it came back.
+
+A couple of weeks ago i done a format and clean Windows install on my computer and went to find something to replace it and AVG (which was quite the resource hog). 
+
+Anyway, i landed on using ZenMate, it's as simple as turning a button on and off and i can use it when i need it (which is only for a few sites), and it doesn't do the whole ""DID THIS WORK? DID OUR SERVICE WORK?"" every time you loaded the fucking page like Hola did. For now it says they are doing unlimited data for users, so eventually they'll go to a Premium service and depending on what it's like i may sign up.",2,-0.0291666666667,0.284800124844,0.544642857143,0.348337018315,0.966666666667,0.8,151,0.0,21.5714285714,0.366666666667,0.7

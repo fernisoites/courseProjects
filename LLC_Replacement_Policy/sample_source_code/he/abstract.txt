@@ -1,0 +1,22 @@
+Title:  Adaptive Sub-Set Based Replace Policy for High Performance Caching
+
+Authors: Liqiang He, Yan Sun, Chaozhong Zhang
+         College of Computer Science, Inner Mongolia University
+         Hohhot, Inner Mongolia 010021 P.R.China
+         liqiang@imu.edu.cn, brandon.sunyan@gmail.com, zcz917@yahoo.com.cn
+
+Abstract
+
+Cache plays an important role in the process of designing microprocessor.
+In this paper, we propose an adaptive sub-set based replace policy (ASRP)
+for effective cache management. In ASRP policy, we divide each last-level
+cache (LLC) set into several subsets, and one subset is active and others
+are inactive at a given time. The victim block is only chosen from the
+active subset. A counter is used to record the cache misses during a
+period of time. When the number is greater than a predefined threshold,
+the active subset is changed to the neighbor one. To adapt the program
+behavior changing, a dynamic policy is used to choose different thresholds
+according to which one has least misses in the sample sets. Using the
+given framework in this championship our ASRP policy improves LRU by 4.5%
+on geometric average for 28 SPEC CPU 2006 programs and some programs gains
+an improvement up to 52.78%.

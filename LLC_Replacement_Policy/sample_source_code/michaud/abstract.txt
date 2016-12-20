@@ -1,0 +1,24 @@
+
+Title: The 3P and 4P cache replacement policies
+
+Abstract:
+We introduce the 3P replacement policy for a last-level private cache
+and the 4P policy for a last-level shared cache.  Both policies are
+based on the CLOCK policy and are incrementally derived from DIP.
+In particular, we use set sampling and bimodal insertion with two
+different values for bimodal throttling.  We show how bimodal insertion
+can be emulated under the CLOCK policy. Policies 3P and 4P combine
+respectively 3 and 4 different insertion policies: they use a new
+multi-policy selection mechanism that allows combining more than two
+different policies. Policies 3P and 4P also use a novel bimodal
+insertion implementation that improves memory-level parallelism. 
+Policy 4P is thread-aware and uses a simple method for fairer sharing 
+of a cache by multiple programs.
+
+
+Author: Pierre Michaud
+Affiliation: INRIA
+Email: pierre.michaud@inria.fr
+
+Contact author: Pierre Michaud (pierre.michaud@inria.fr)
+

@@ -1,0 +1,8 @@
+
+{% if results %}
+  {% for entry in results %}
+    <h3>{{ entry.entry_id }}</h3>
+    <p>Date: {{ entry.date }}</p>
+    <p>Department: {{ entry.department }}</p>
+  {% endfor %}
+{% endif %}

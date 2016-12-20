@@ -1,0 +1,6 @@
+{% load qr_tags %}
+
+{% for qrcode in qrcode_list %}
+<p class="qrcodeImage">{% qr_from_text qrcode "size" %}
+<h5>{{qrcode}}</h5>
+{% endfor %}

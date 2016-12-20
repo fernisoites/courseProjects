@@ -1,0 +1,36 @@
+Paper Title:
+Insertion Policy Selection Using Decision Tree Analysis
+
+
+Paper abstract:
+Our submission is a simple storage efficient insertion policy over the
+default LRU replacement policy that requires minimal hardware change.
+It uses the fact that last level cache has filtered temporal locality. Many
+of the lines brought to cache are never accessed again. Even if they are
+accessed they do not experience bursts, but rather they are reused when
+they are near the near LRU position in the LRU stack. We use decision tree
+analysis of multi-set-dueling to choose the optimal insertion position
+of the LRU stack. Inserting in this position, zero reuse distance lines
+minimize their dead time while the non-zero lines remain in the cache long
+enough to be reused and avoid a miss. Our multi set dueling technique is
+scalable. It does not use one leader set for each competing policy. Instead
+leader sets can adaptively choose the policy it uses depending on the
+decision taken in the previous level of decision tree. For a 1MB 16
+way set-associative last level cache in a single core processor, our entry
+uses only 2069 bits over the LRU replacement policy.
+
+
+Author of the paper:
+Samira Khan
+skhan@cs.utsa.edu
+Department of Computer Science 
+Unicersity of Texas at San Antonio
+
+Daniel A. Jimenez 
+dj@cs.utsa.edu
+Department of Computer Science 
+The University of Texas at San Antonio
+
+Contact author's name and email:
+Daniel A. Jimenez 
+dj@cs.utsa.edu

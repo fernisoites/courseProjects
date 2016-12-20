@@ -1,0 +1,54 @@
+*** 1. Paper Title ***
+Map-based Adaptive Insertion Policy
+
+
+*** 2. Paper Abstract (267 words) ***
+In this paper, we propose a map-based adaptive insertion
+policy (MAIP). On a cache miss, MAIP predicts a
+reuse possibility of an incoming cache line from run-time
+information. When the predicted reuse possibility is lower
+than the threshold level, MAIP does not insert the incoming
+cache line into the MRU position. It helps early eviction of
+useless cache lines and improves cache efficiency.
+
+To predict reuse possibility correctly, MAIP tracks
+memory access history. MAIP employs bitmap-like data
+structure, which we call memory access map, for tracking
+memory access history. The feature of memory access map is
+cost-efficiency. The memory access map with a 7.7 KB budget
+can cover up to 3 MB memory area. To detect previously
+accessed location, MAIP uses a memory access map as an
+additional cache tag because it holds all memory accesses of
+the corresponding zone.
+
+Based on both an original cache tag and the memory
+access map, MAIP predicts reuse possibility of the incoming
+line in two metrics that are (1) spatial locality and (2)
+temporal locality. (1) Spatial locality is derived from the
+reuse possibility of neighbors of the memory address of the
+incoming cache line. (2) Temporal locality is derived from
+the reuse possibility from the memory access instruction
+that initiates corresponding cache miss. Combination of
+these predictions improves accuracy of the reuse possibility
+prediction because each locality supports different memory
+access patterns.
+
+We evaluated MAIP by simulation study. The simulation
+result shows that MAIP reduces cache miss count by
+8.3% from LRU. MAIP improves performance by 2.1% in
+single-core and by 9.1% in multi-core compared with the
+traditional LRU policy.
+
+
+*** 3. Information about each author ***
+Author 1) Yasuo Ishii, yishii@is.s.u-tokyo.ac.jp, The University of Tokyo
+Author 2) Mary Inaba, mary@is.s.u-tokyo.ac.jp, The University of Tokyo
+Author 3) Kei Hiraki, hiraki@is.s.u-tokyo.ac.jp, The University of Tokyo
+# The author 1 (Yasuo Ishii) is also affiliated with the NEC corporation.
+
+
+*** 4. Contact Author's Information ***
+Name  : Yasuo Ishii
+E-mail: yasuo.ishii@gmail.com
+
+

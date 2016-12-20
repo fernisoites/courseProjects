@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>myapp</title>
+    </head>
+
+    <body>
+        <h1>Record data</h1>
+
+        <form id="Drain_form" method="post" action="/myapp/add_category/">
+
+            {% csrf_token %}
+            {% for hidden in form.hidden_fields %}
+                {{ hidden }}
+            {% endfor %}
+
+            {% for field in form.visible_fields %}
+                <li>{{ field.errors }}
+                <h3>{{ field.help_text }}     
+                {{ field }}</h3></li>
+				
+            {% endfor %}
+
+            <input type="submit" name="submit" value="Submit" />
+        </form>
+		<h1></h1>
+		<a href="/">Back</a><br />
+				<h1></h1>
+    </body>
+
+</html>

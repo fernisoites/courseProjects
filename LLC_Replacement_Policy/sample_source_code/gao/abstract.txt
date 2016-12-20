@@ -1,0 +1,12 @@
+Title: A Dueling Segmented LRU Replacement Algorithm with Adaptive Bypassing
+Author: Hongliang Gao, Chris Wilkerson
+Affiliation: Intel Corporation
+Email: {hongliang.gao, chris.wilkerson}@intel.com
+Contact Author: Hongliang Gao (hongliang.gao@intel.com)
+
+Abstract:
+
+In this paper we present a high performance cache replacement algorithm called Dueling Segmented LRU replacement algorithm with adaptive Bypassing (DSB). The base algorithm is Segmented LRU (SLRU) replacement algorithm originally proposed for disk cache management. We introduce three enhancements to the base SLRU algorithm. First, a newly allocated line could be randomly promoted for better protection. Second, an aging algorithm is used to remove stale cache lines. Most importantly, we propose a novel scheme to track whether cache bypassing is effective. Based on the tracking results, we can adaptively adjust bypassing to fit workload behavior. DSB algorithm is implemented with a policy selector to dynamically select two variants of SLRU algorithms with different enhancements.
+
+
+
